@@ -1,0 +1,142 @@
+{
+  "case_id": "SYN-LEASER-0097",
+  "case_name": "Lowbridge v. Foxglove Landing",
+  "full_caption": "Rosalind Lowbridge, Appellant, v. Foxglove Landing Municipal Housing Authority, Appellee",
+  "court": "Northridge District Court of Appeal, First District",
+  "jurisdiction": "Northridge",
+  "date": "2024-05-17",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2024-2070",
+  "property_address": "1344 Pennyroyal Court, Grayrock, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Rosalind Lowbridge, as landlord, and Foxglove Landing Municipal Housing Authority, as tenant, for 1,120 square feet at 1344 Pennyroyal Court, Grayrock, NR."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Percentage Rent Rider obligates Foxglove Landing Municipal Housing Authority to pay 4 percent of annual gross sales in excess of a breakpoint of $325,000, with 'gross sales' defined to exclude returns, sales taxes collected, and inter-store transfers."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A rider is read as part of the integrated lease. Where a rider and the printed form conflict, the rider controls, because it represents the parties' specific and later-negotiated intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A landlord may not withhold consent in order to extract a rent increase not bargained for in the lease. The demand for 75 percent of the sublease profits, absent a recapture provision, was unreasonable as a matter of law."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Late Fee Rider assesses a charge of 10 percent of any installment not received by the 10th day of the month, together with interest at 12 percent per annum on the unpaid balance from the due date."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The Assignment and Subletting Rider conditions transfer on the landlord's consent, 'which shall not be unreasonably withheld.' Reasonableness is measured by objective commercial criteria: the proposed transferee's financial capacity, use, and experience."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 30 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The Holdover Rider fixes holdover rent at three (3) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "Judgment for Foxglove Landing Municipal Housing Authority on the late-fee and default-interest claim is affirmed; judgment for Rosalind Lowbridge on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — LATE FEES AND DEFAULT INTEREST",
+      "order": 13,
+      "text": "If any installment of Base Rent or Additional Rent is not received by Landlord by the 10th day of the month, Tenant shall pay a late charge equal to 10 percent of the overdue installment. Amounts remaining unpaid more than thirty (30) days after the due date shall thereafter bear interest at 12 percent per annum. The late charge and default interest are alternative and not cumulative remedies for the same delinquent installment; in no event shall Tenant be charged both for the same period of delay."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — CONTINUOUS OPERATION AND GOING DARK",
+      "order": 14,
+      "text": "Tenant shall continuously operate the Premises under its trade name during the hours the Center is open. If Tenant ceases operations for more than 45 consecutive days other than for remodeling, casualty, or force majeure, Landlord's sole remedies shall be (a) to collect substitute rent equal to three (3) times Base Rent for each month of closure, and (b) to terminate this Lease on thirty days' notice. The parties agree that these remedies are adequate and that Landlord shall not be entitled to specific performance of this Rider."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — HOLDOVER",
+      "order": 15,
+      "text": "If Tenant remains in possession after expiration without Landlord's written consent, the tenancy shall be one at sufferance terminable at will, and Tenant shall pay for each month or portion of a month of holding over an amount equal to three (3) times the Base Rent last payable, together with all Additional Rent. The parties agree that the harm from a holdover is difficult to estimate and that this amount is a reasonable forecast of that harm and not a penalty."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 16,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 17,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Dispute Resolution",
+      "order": 18,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 10 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

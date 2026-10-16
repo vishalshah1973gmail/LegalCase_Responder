@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-WATERR-0029",
+  "case_name": "Nettleford v. Quarrytown Homeowners",
+  "full_caption": "Silas Nettleford, Appellant, v. Quarrytown Homeowners Association, Inc., Appellee",
+  "court": "Marrowdale Superior Court, Lindenmere County",
+  "jurisdiction": "Marrowdale",
+  "date": "2013-07-31",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2013-7726",
+  "property_address": "929 Wicklow Lane, Lindenmere, MD",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Silas Nettleford and Quarrytown Homeowners Association, Inc. own riparian tracts along the Sable Fork within Lindenmere County. The dispute concerns Quarrytown Homeowners Association, Inc.'s diversion of approximately 1,100 gallons per minute for irrigation of 1.4 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The public trust doctrine reserves to the State title to the beds of navigable waters. Navigability for title purposes is determined by susceptibility to commercial navigation at the date of statehood."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A use that wholly deprives a downstream riparian of water for domestic purposes is unreasonable as a matter of law, without regard to the economic value of the upstream use."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The accommodation doctrine required Quarrytown Homeowners Association, Inc. to consider directional drilling from an off-site pad before siting the wellpad within the irrigated circle. Failure even to evaluate the alternative defeats the claim of reasonable necessity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The injunction is modified to permit diversion not exceeding 350 gallons per minute between June and September, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — DIVERSION LIMITS AND SEASONAL SCHEDULE",
+      "order": 11,
+      "text": "The Upper Owner may divert from the Sable Fork for irrigation not more than 1,100 gallons per minute, and not more than an aggregate of 720 acre-feet in any calendar year. Between June and September the permitted rate is reduced to 350 gallons per minute. No diversion is permitted whenever the gauged flow at the Lindenmere County station falls below the minimum bypass flow set out in Rider B."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — MINIMUM BYPASS FLOW AND MEASUREMENT",
+      "order": 12,
+      "text": "A minimum bypass flow sufficient to satisfy downstream domestic and stock-watering needs shall be maintained at all times. Each diverting party shall install and maintain a totalizing meter at the point of diversion, shall record readings weekly, and shall furnish records to any other riparian owner within 10 days of written request. Domestic use has priority over irrigation, and irrigation over industrial use, in every period of shortage."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 13,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Marrowdale, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Inspection and Right of Entry",
+      "order": 14,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Dispute Resolution",
+      "order": 15,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 10 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

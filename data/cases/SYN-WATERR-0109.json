@@ -1,0 +1,142 @@
+{
+  "case_id": "SYN-WATERR-0109",
+  "case_name": "Deepwell Land v. Stonebrook Homeowners",
+  "full_caption": "Deepwell Land & Timber Co., Appellant, v. Stonebrook Homeowners Association, Inc., Appellee",
+  "court": "Sable Superior Court, Grayrock County",
+  "jurisdiction": "Sable",
+  "date": "2005-01-02",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2005-4446",
+  "property_address": "2781 Tanner's Row, Grayrock, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Deepwell Land & Timber Co. and Stonebrook Homeowners Association, Inc. own riparian tracts along the Brightwater Branch within Grayrock County. The dispute concerns Stonebrook Homeowners Association, Inc.'s diversion of approximately 950 gallons per minute for irrigation of 5.2 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The 80 days of well failure experienced by Deepwell Land & Timber Co. coincided with the operation of Stonebrook Homeowners Association, Inc.'s high-capacity irrigation well 20 feet from the shared aquifer boundary. Causation was established by drawdown modeling."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 1998 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The accommodation doctrine required Stonebrook Homeowners Association, Inc. to consider directional drilling from an off-site pad before siting the wellpad within the irrigated circle. Failure even to evaluate the alternative defeats the claim of reasonable necessity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "A use that wholly deprives a downstream riparian of water for domestic purposes is unreasonable as a matter of law, without regard to the economic value of the upstream use."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The public trust doctrine reserves to the State title to the beds of navigable waters. Navigability for title purposes is determined by susceptibility to commercial navigation at the date of statehood."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The injunction is modified to permit diversion not exceeding 300 gallons per minute between April and October, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — MINIMUM BYPASS FLOW AND MEASUREMENT",
+      "order": 13,
+      "text": "A minimum bypass flow sufficient to satisfy downstream domestic and stock-watering needs shall be maintained at all times. Each diverting party shall install and maintain a totalizing meter at the point of diversion, shall record readings weekly, and shall furnish records to any other riparian owner within 15 days of written request. Domestic use has priority over irrigation, and irrigation over industrial use, in every period of shortage."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SEVERED MINERAL ESTATE AND SURFACE ACCOMMODATION",
+      "order": 14,
+      "text": "The owner of the severed mineral estate may use so much of the surface as is reasonably necessary for exploration and production, and shall accommodate existing surface uses where a reasonable alternative means of extraction exists. Before siting any wellpad within an irrigated area, the operator shall evaluate in writing off-site and directional alternatives and shall furnish that evaluation to the surface owner not less than 45 days before entry."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 15,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 15 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 16,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Attorney's Fees",
+      "order": 17,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Time of the Essence",
+      "order": 18,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Sable, the period is extended to the next business day."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-EMINEN-0058",
+  "case_name": "Copperfield Row v. Larkspur Hill",
+  "full_caption": "Copperfield Row Holdings, LLC, Appellant, v. Larkspur Hill Development Partners, L.P., Appellee",
+  "court": "Court of Appeals of Kestrel",
+  "jurisdiction": "Kestrel",
+  "date": "2025-10-06",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2025-5502",
+  "property_address": "202 Sycamore Reach, Grayrock, KS",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Grayrock County Redevelopment Authority condemned 17.3 acres owned by Larkspur Hill Development Partners, L.P. at 202 Sycamore Reach, Grayrock, KS for construction of a day-care center. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The trial court excluded testimony valuing the parcel as multifamily residential land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The 'scope of the project' rule excludes from the valuation any increase or decrease in value attributable to the project itself, including value changes flowing from the announcement of the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A taking may be effected without formal proceedings where governmental action substantially deprives the owner of the beneficial use of the land. The 6-month closure of the only access drive states a claim for inverse condemnation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Public use is satisfied where the taking serves a legitimate public purpose; the transfer of the condemned land to a private developer under an enforceable redevelopment agreement does not defeat that purpose under this State's constitution."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Business losses are not compensable as such. Loss of goodwill is recoverable only where a statute so provides; this State's statute permits recovery of relocation expenses of $760,000 but not lost profits."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The highest and best use of the property is the use to which it may reasonably be put in the reasonably near future. A use dependent on a rezoning is admissible only on a showing that the rezoning was reasonably probable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Interest on the award runs from the date of taking to the date of payment at the statutory rate of 3 percent, and is a component of just compensation rather than a matter of legislative grace."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — DESCRIPTION OF THE TAKING",
+      "order": 12,
+      "text": "The Condemnor takes in fee simple 17.3 acres out of the Owner's parcel of 6.8 acres, together with a temporary construction easement of 50 feet in width along the taking line for a term of 6 months, for the purpose of constructing the day-care center. The date of taking is the date of the deposit of estimated compensation with the clerk."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — EXCLUDED EVIDENCE",
+      "order": 13,
+      "text": "The following are not admissible on the issue of value: the price paid by the Condemnor for other parcels acquired for this project; any increase or decrease in value attributable to the project itself or to its announcement; offers to purchase not accepted; and the assessed valuation for property tax purposes."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 14,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Kestrel, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Insurance",
+      "order": 15,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $1,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    }
+  ]
+}

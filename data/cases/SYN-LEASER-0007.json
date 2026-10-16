@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-LEASER-0007",
+  "case_name": "Two Rivers v. Verdant Acre",
+  "full_caption": "Two Rivers Development Partners, L.P., Appellant, v. Verdant Acre Realty Trust, Appellee",
+  "court": "Northridge District Court of Appeal, First District",
+  "jurisdiction": "Northridge",
+  "date": "2021-07-10",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-1772",
+  "property_address": "3770 Sycamore Reach, Windmere, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Two Rivers Development Partners, L.P., as landlord, and Verdant Acre Realty Trust, as tenant, for 180 square feet at 3770 Sycamore Reach, Windmere, NR."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 60 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A rider is read as part of the integrated lease. Where a rider and the printed form conflict, the rider controls, because it represents the parties' specific and later-negotiated intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Assignment and Subletting Rider conditions transfer on the landlord's consent, 'which shall not be unreasonably withheld.' Reasonableness is measured by objective commercial criteria: the proposed transferee's financial capacity, use, and experience."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A landlord may not withhold consent in order to extract a rent increase not bargained for in the lease. The demand for 25 percent of the sublease profits, absent a recapture provision, was unreasonable as a matter of law."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The Holdover Rider fixes holdover rent at two (2) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Judgment for Verdant Acre Realty Trust on the late-fee and default-interest claim is affirmed; judgment for Two Rivers Development Partners, L.P. on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — PERCENTAGE RENT",
+      "order": 9,
+      "text": "In addition to Base Rent, Tenant shall pay 2 percent of Gross Sales in each Lease Year in excess of a breakpoint of $1,375,000. 'Gross Sales' means all receipts from business conducted at, from, or fulfilled out of the Premises, whether for cash or credit, and expressly includes internet and telephone orders fulfilled from inventory located at the Premises, and expressly excludes: returns and allowances actually credited; sales, excise and similar taxes collected and remitted; transfers of merchandise to other stores of Tenant not made to avoid percentage rent; and receipts from vending machines maintained for employees. Tenant shall deliver a statement of Gross Sales within 30 days after each Lease Year, and Landlord may audit not more than once per Lease Year."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 6",
+      "heading": "RIDER 6 — ESTOPPEL CERTIFICATES AND SUBORDINATION",
+      "order": 10,
+      "text": "Within 60 days after written request, Tenant shall execute and deliver a certificate stating the commencement and expiration dates, the amount of Base Rent, the amounts of any prepaid rent and security deposit, and whether to Tenant's knowledge Landlord is in default. Failure to deliver within that period shall be deemed an admission of the accuracy of the statements contained in the form furnished by Landlord. This Lease is subordinate to any mortgage now or hereafter placed on the Center, provided the mortgagee delivers a commercially reasonable non-disturbance agreement."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Insurance",
+      "order": 11,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $500,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 12,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Inspection and Right of Entry",
+      "order": 13,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Dispute Resolution",
+      "order": 14,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 3 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

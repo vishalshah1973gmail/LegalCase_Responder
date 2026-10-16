@@ -1,0 +1,135 @@
+{
+  "case_id": "SYN-LANDLO-0070",
+  "case_name": "Stroudwick v. Quarrytown Holdings",
+  "full_caption": "Cordelia Stroudwick, Appellant, v. Quarrytown Holdings, LLC, Appellee",
+  "court": "Fairhollow Land and Property Court, Stillwater Division",
+  "jurisdiction": "Fairhollow",
+  "date": "2011-02-28",
+  "case_type": "landlord_tenant",
+  "case_type_label": "Landlord-Tenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-5101",
+  "property_address": "3813 Sycamore Reach, Stillwater, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Appellant Cordelia Stroudwick is the record owner of the residential building located at 3813 Sycamore Reach, Stillwater, FH, a 18-unit structure operated as rental housing since 1977. Appellee Quarrytown Holdings, LLC occupied Unit 1C under a written lease dated January 25, 2006."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The implied warranty of habitability is not waivable by lease term. Any provision purporting to require a tenant to accept the premises 'as is' is void as against the public policy of this State insofar as it reaches conditions materially affecting health and safety."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Retaliatory eviction is presumed where a landlord commences a summary possession action within 12 months after a tenant has reported a code violation to the municipal housing inspector. The presumption is rebuttable by clear and convincing evidence of an independent, non-retaliatory ground."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The security deposit of $2,350 was not returned within 21 days of surrender, nor was an itemized statement of deductions furnished. The statutory consequence is forfeiture of the landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A tenant electing to withhold rent under the repair-and-deduct statute must (1) give written notice of the defect, (2) allow a reasonable time for cure, and (3) deposit the withheld sums with the clerk of court or into a segregated account. Quarrytown Holdings, LLC satisfied the first two requirements but did not deposit the withheld rent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Quarrytown Holdings, LLC withheld rent for the months of February and October of 1984, asserting that the premises were untenantable by reason of a persistent failure of the heating system and recurring water intrusion at the north wall of the unit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A late fee is enforceable only where it bears a reasonable relationship to the administrative cost actually incurred by the landlord in processing a delinquent payment. A charge of $125 against a monthly obligation of $2,850 exceeds that relationship and is unenforceable to the extent it exceeds five percent of the installment."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The lease provided for monthly rent of $2,850, due on the first day of each month, with a late charge of $125 assessed on any installment remaining unpaid after the 3th day of the month. The trial court found that this charge operated as a penalty rather than as liquidated damages."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The record establishes that Cordelia Stroudwick received written notice of the heating defect on April 24, 2008 and did not dispatch a repair contractor until March 10, 2013, an interval of 45 days. During that interval overnight interior temperatures fell below fifty-five degrees on at least eleven occasions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The trial court awarded Quarrytown Holdings, LLC attorney's fees of $23,500 under the reciprocal-fee provision. Where a lease grants fees to the landlord, this State reads the provision as mutual, and the prevailing tenant recovers on the same terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Cordelia Stroudwick served a notice to quit on May 11, 2013. The notice recited the ground of non-payment but omitted the amount claimed to be due. A notice to quit that fails to state the sum demanded does not commence the statutory cure period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "We affirm in part and reverse in part. The judgment of possession is vacated; the money judgment is remanded for recalculation consistent with the late-fee holding set out above."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — PETS AND ASSISTANCE ANIMALS",
+      "order": 13,
+      "text": "No animal shall be kept on the Premises without Landlord's prior written consent, except that this Rider does not apply to a service animal or to a reasonable accommodation required by fair-housing law, for which no pet deposit or pet rent may be charged. Where consent is granted, Tenant shall pay a refundable pet deposit of $250 and shall be liable for all damage caused by the animal beyond ordinary wear."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 14,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Fairhollow."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Governing Law",
+      "order": 15,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Fairhollow, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Stillwater County, Fairhollow, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Indemnity",
+      "order": 16,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Waiver and Course of Dealing",
+      "order": 17,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    }
+  ]
+}

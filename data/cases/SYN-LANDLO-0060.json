@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-LANDLO-0060",
+  "case_name": "Kingsmere Land v. Alderidge",
+  "full_caption": "Kingsmere Land & Timber Co., Appellant, v. Nikolai Alderidge, Appellee",
+  "court": "Court of Appeals of Calloway",
+  "jurisdiction": "Calloway",
+  "date": "2023-06-07",
+  "case_type": "landlord_tenant",
+  "case_type_label": "Landlord-Tenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2023-6325",
+  "property_address": "1647 Wicklow Lane, Stillwater, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Appellant Kingsmere Land & Timber Co. is the record owner of the residential building located at 1647 Wicklow Lane, Stillwater, CW, a 12-unit structure operated as rental housing since 1989. Appellee Nikolai Alderidge occupied Unit 2D under a written lease dated June 17, 2012."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The record establishes that Kingsmere Land & Timber Co. received written notice of the heating defect on October 28, 2016 and did not dispatch a repair contractor until December 15, 2018, an interval of 14 days. During that interval overnight interior temperatures fell below fifty-five degrees on at least eleven occasions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Kingsmere Land & Timber Co. served a notice to quit on November 15, 2019. The notice recited the ground of non-payment but omitted the amount claimed to be due. A notice to quit that fails to state the sum demanded does not commence the statutory cure period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The implied warranty of habitability is not waivable by lease term. Any provision purporting to require a tenant to accept the premises 'as is' is void as against the public policy of this State insofar as it reaches conditions materially affecting health and safety."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The lease provided for monthly rent of $2,250, due on the first day of each month, with a late charge of $125 assessed on any installment remaining unpaid after the 15th day of the month. The trial court found that this charge operated as a penalty rather than as liquidated damages."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A tenant electing to withhold rent under the repair-and-deduct statute must (1) give written notice of the defect, (2) allow a reasonable time for cure, and (3) deposit the withheld sums with the clerk of court or into a segregated account. Nikolai Alderidge satisfied the first two requirements but did not deposit the withheld rent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Nikolai Alderidge withheld rent for the months of May and August of 1999, asserting that the premises were untenantable by reason of a persistent failure of the heating system and recurring water intrusion at the north wall of the unit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The trial court awarded Nikolai Alderidge attorney's fees of $12,500 under the reciprocal-fee provision. Where a lease grants fees to the landlord, this State reads the provision as mutual, and the prevailing tenant recovers on the same terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Retaliatory eviction is presumed where a landlord commences a summary possession action within 18 months after a tenant has reported a code violation to the municipal housing inspector. The presumption is rebuttable by clear and convincing evidence of an independent, non-retaliatory ground."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "We affirm in part and reverse in part. The judgment of possession is vacated; the money judgment is remanded for recalculation consistent with the late-fee holding set out above."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — LATE CHARGES AND RETURNED PAYMENTS",
+      "order": 11,
+      "text": "Tenant shall pay a late charge equal to five percent (5%) of the monthly installment for any rent not received by Landlord on or before the 15th day of the month in which it is due. The late charge is agreed to represent Landlord's administrative cost of processing a delinquent payment and is not a penalty or a charge for the use of money. A returned-payment fee of $125 shall be assessed for any instrument returned unpaid. No late charge shall be assessed on a late charge, and no default interest shall accrue on any installment for which a late charge has been assessed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER F",
+      "heading": "RIDER F — UTILITY ALLOCATION",
+      "order": 12,
+      "text": "Where utilities are master-metered, Landlord shall allocate charges among units by the ratio of occupied square footage and shall furnish, upon written request, a copy of the master bill and the allocation calculation for any billing period within the preceding twelve months. Landlord shall not impose an administrative markup exceeding 8 percent of the actual charge."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Inspection and Right of Entry",
+      "order": 13,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 14,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-LEASER-0077",
+  "case_name": "Havershaw v. Fenwicke",
+  "full_caption": "Isolde Havershaw, Appellant, v. Ulric Fenwicke, Appellee",
+  "court": "Court of Appeals of Ardenne",
+  "jurisdiction": "Ardenne",
+  "date": "2011-05-24",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-5297",
+  "property_address": "2634 Sycamore Reach, Elmsworth, AR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Isolde Havershaw, as landlord, and Ulric Fenwicke, as tenant, for 500 square feet at 2634 Sycamore Reach, Elmsworth, AR."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Assignment and Subletting Rider conditions transfer on the landlord's consent, 'which shall not be unreasonably withheld.' Reasonableness is measured by objective commercial criteria: the proposed transferee's financial capacity, use, and experience."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The Holdover Rider fixes holdover rent at two (2) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A rider is read as part of the integrated lease. Where a rider and the printed form conflict, the rider controls, because it represents the parties' specific and later-negotiated intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The Late Fee Rider assesses a charge of 8 percent of any installment not received by the 5th day of the month, together with interest at 6 percent per annum on the unpaid balance from the due date."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Judgment for Ulric Fenwicke on the late-fee and default-interest claim is affirmed; judgment for Isolde Havershaw on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — PERCENTAGE RENT",
+      "order": 9,
+      "text": "In addition to Base Rent, Tenant shall pay 2 percent of Gross Sales in each Lease Year in excess of a breakpoint of $1,200,000. 'Gross Sales' means all receipts from business conducted at, from, or fulfilled out of the Premises, whether for cash or credit, and expressly includes internet and telephone orders fulfilled from inventory located at the Premises, and expressly excludes: returns and allowances actually credited; sales, excise and similar taxes collected and remitted; transfers of merchandise to other stores of Tenant not made to avoid percentage rent; and receipts from vending machines maintained for employees. Tenant shall deliver a statement of Gross Sales within 21 days after each Lease Year, and Landlord may audit not more than once per Lease Year."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Attorney's Fees",
+      "order": 10,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Governing Law",
+      "order": 11,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Ardenne, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Elmsworth County, Ardenne, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Indemnity",
+      "order": 12,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Dispute Resolution",
+      "order": 13,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 5 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

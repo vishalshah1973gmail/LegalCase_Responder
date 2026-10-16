@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-FORECL-0004",
+  "case_name": "Vosswood v. Zellwood",
+  "full_caption": "Desmond Vosswood, Appellant, v. Wendell Zellwood, Appellee",
+  "court": "Court of Appeals of Kestrel",
+  "jurisdiction": "Kestrel",
+  "date": "2024-08-09",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2024-7922",
+  "property_address": "2339 Tanner's Row, Rooksbury, KS",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Desmond Vosswood, as servicer for the holder of the note, commenced this foreclosure against Wendell Zellwood with respect to the property at 2339 Tanner's Row, Rooksbury, KS, securing an original principal balance of $135,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Wendell Zellwood made 4 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $1,050."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — ESCROW ACCOUNT",
+      "order": 9,
+      "text": "Borrower shall pay monthly into escrow one-twelfth of the annual taxes and insurance premiums. Servicer shall conduct an annual escrow analysis and shall furnish Borrower a statement identifying any shortage or surplus. A shortage of $1,050 or less shall be spread over not fewer than twelve monthly installments and shall not, standing alone, constitute a default."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SALE, DEFICIENCY AND SURPLUS",
+      "order": 10,
+      "text": "Any sale shall be conducted publicly after publication for 3 consecutive weeks. No deficiency judgment shall be entered unless the court finds, after an evidentiary hearing, that the sale price was commercially reasonable in relation to the fair market value of the Property. Any surplus remaining after satisfaction of the debt, costs and junior liens of record shall be paid to Borrower within 21 days of confirmation."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — TENANT PROTECTIONS AFTER SALE",
+      "order": 11,
+      "text": "A purchaser at the sale takes subject to any bona fide tenancy in existence at the time of the notice of sale. The purchaser shall give a bona fide tenant not less than 45 days' written notice to vacate, and a tenant under a bona fide lease may occupy the Property for the remaining term of the lease unless the purchaser will occupy the Property as a primary residence."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 12,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Kestrel."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Indemnity",
+      "order": 13,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Insurance",
+      "order": 14,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $2,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Force Majeure",
+      "order": 15,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 7 days and resumes performance as promptly as practicable."
+    }
+  ]
+}

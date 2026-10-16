@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-FORECL-0054",
+  "case_name": "Saltmarsh Homeowners v. Havershaw",
+  "full_caption": "Saltmarsh Homeowners Association, Inc., Appellant, v. Theodora Havershaw, Appellee",
+  "court": "Northridge Superior Court, Lindenmere County",
+  "jurisdiction": "Northridge",
+  "date": "2009-05-24",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2009-2419",
+  "property_address": "2237 Harper's Cut, Lindenmere, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Saltmarsh Homeowners Association, Inc., as servicer for the holder of the note, commenced this foreclosure against Theodora Havershaw with respect to the property at 2237 Harper's Cut, Lindenmere, NR, securing an original principal balance of $460,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Theodora Havershaw made 13 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $2,700."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Strict compliance with contractual notice conditions is a condition precedent to acceleration. The notice sent to Theodora Havershaw omitted the reinstatement advisory and was therefore ineffective to accelerate the debt."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — NOTICE OF DEFAULT AND RIGHT TO CURE",
+      "order": 10,
+      "text": "Before accelerating the indebtedness, Lender shall mail to Borrower at Borrower's last known address a notice specifying: (a) the default; (b) the action required to cure it; (c) a date not less than 5 days from the date the notice is mailed by which the default must be cured; (d) that failure to cure by that date may result in acceleration and sale of the Property; and (e) Borrower's right to reinstate after acceleration and to assert in the foreclosure proceeding the non-existence of a default. Strict compliance with this Rider is a condition precedent to acceleration."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Inspection and Right of Entry",
+      "order": 11,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 12,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Entire Agreement and Riders",
+      "order": 13,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 5 days and resumes performance as promptly as practicable."
+    }
+  ]
+}

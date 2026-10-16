@@ -1,0 +1,142 @@
+{
+  "case_id": "SYN-HOACOV-0073",
+  "case_name": "Deepwell Land v. Ellsworth-Vane",
+  "full_caption": "Deepwell Land & Timber Co., Appellant, v. Fitzwilliam Ellsworth-Vane, Appellee",
+  "court": "Thornfield Superior Court, Elmsworth County",
+  "jurisdiction": "Thornfield",
+  "date": "2015-08-23",
+  "case_type": "hoa_covenant",
+  "case_type_label": "HOA / Restrictive Covenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2015-9690",
+  "property_address": "3639 Ferndale Road, Elmsworth, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Deepwell Land & Timber Co., the association governing the Kingsmere subdivision, brought this action to enjoin Fitzwilliam Ellsworth-Vane from maintaining a detached structure at 3639 Ferndale Road, Elmsworth, TF in violation of Article III of the recorded declaration."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Restrictive covenants are enforceable servitudes running with the land where they are (1) in writing, (2) intended to run, (3) touching and concerning the land, and (4) recorded so as to give notice to successors."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The business judgment rule shields the board's maintenance and budgeting decisions from judicial second-guessing where the board acted within its authority, on an informed basis, and in the honest belief that the action served the association."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Article III prohibits 'any outbuilding, shed or accessory structure exceeding one hundred twenty square feet.' The structure erected by Fitzwilliam Ellsworth-Vane measures 520 square feet and is therefore within the plain reach of the restriction."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Assessments levied under Article XII became a lien on the lot upon recording of the notice of assessment. The lien is subordinate to a first mortgage recorded earlier in time but superior to subsequent encumbrances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The defense of changed conditions requires a showing that the character of the neighborhood has so altered that the original purpose of the restriction can no longer be achieved. Isolated violations elsewhere in the subdivision do not meet that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The association's architectural review committee denied the application by letter dated July 25, 2020. The declaration requires that denials state the specific ground relied upon; the letter recited only that the proposal was 'not in harmony with the community.'"
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Covenants are construed in favor of the free use of land. Ambiguity in a restriction is resolved against the party seeking to enforce it, and a restriction will not be extended by implication to conduct not fairly within its terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Fines totaling $250 were imposed without the hearing required by the bylaws. A fine imposed in disregard of the association's own procedural requirements is void, without regard to the merits of the underlying violation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "A discretionary architectural approval power must be exercised reasonably and in good faith. A denial that states no articulable standard is arbitrary and will not support injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "We reverse the injunction as to the fence and affirm as to the accessory structure. The award of fines is vacated in its entirety."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — ARCHITECTURAL REVIEW PROCEDURE",
+      "order": 12,
+      "text": "No structure, addition, fence, or exterior alteration shall be commenced until plans have been submitted to and approved in writing by the Architectural Review Committee. The Committee shall act within 45 days of a complete submission; failure to act within that period constitutes approval. Any denial shall be in writing and shall identify the specific provision of the Declaration or published guideline on which it rests. Approval may not be withheld on grounds of personal taste alone."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — ASSESSMENTS, LIENS AND PRIORITY",
+      "order": 13,
+      "text": "Annual assessments are levied against each Lot in equal shares and are due on the first day of each fiscal year. Unpaid assessments bear interest at 6 percent per annum and become a lien upon recording of a notice of assessment lien in the Elmsworth County land records. The lien is subordinate to a first mortgage of record predating the notice and superior to all other subsequently recorded encumbrances. The Association shall furnish an estoppel statement of amounts due within 7 days of written request."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — ENFORCEMENT, FINES AND HEARING RIGHTS",
+      "order": 14,
+      "text": "Before imposing any fine, the Board shall give the owner written notice of the alleged violation and an opportunity to be heard before the Board or a committee of at least three members who are not officers. Fines shall not exceed $250 per violation nor $2,500 in the aggregate for a continuing violation. A fine imposed without the notice and hearing required by this Rider is void."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 15,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 7 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Indemnity",
+      "order": 16,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Waiver and Course of Dealing",
+      "order": 17,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Recording",
+      "order": 18,
+      "text": "This instrument shall be recorded in the land records of Elmsworth County, Thornfield, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 7 days of recording."
+    }
+  ]
+}

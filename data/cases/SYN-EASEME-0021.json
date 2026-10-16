@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-EASEME-0021",
+  "case_name": "Verdant Acre v. Quillon",
+  "full_caption": "Verdant Acre Municipal Housing Authority, Appellant, v. Adaline Quillon, Appellee",
+  "court": "Court of Appeals of Northridge",
+  "jurisdiction": "Northridge",
+  "date": "2010-02-06",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2010-9959",
+  "property_address": "4600 Mill Race Way, Pinecrest, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 12 feet of the parcel at 4600 Mill Race Way, Pinecrest, NR, owned by Adaline Quillon, in favor of the landlocked rear parcel owned by Verdant Acre Municipal Housing Authority."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The servient owner retains the right to make any use of the burdened land that does not unreasonably interfere with the easement. Installation of a gate is permissible provided it is not locked against the dominant owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The evidence showed that Verdant Acre Municipal Housing Authority and predecessors drove a gravel track across the servient estate from 1995 through 2005, maintained it with periodic grading, and installed a culvert at the drainage swale in 2017."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The common grantor conveyed the rear parcel in 1995 without any reservation of a right of way. At that time the rear parcel abutted the Wicklow town road, which was subsequently vacated by the Pinecrest County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Adaline Quillon."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — SCOPE LIMITATION AND GATES",
+      "order": 9,
+      "text": "Use of the easement is limited to passenger vehicles, light trucks and agricultural equipment consistent with the historic use of the way. Commercial haul traffic, quarry traffic and use in connection with any subdivision of the Dominant Estate into more than 18 lots are outside the scope of this grant. Grantor may install gates at the points of entry provided that no gate shall be locked against Grantee and any lock installed shall be keyed to Grantee as well."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION",
+      "order": 10,
+      "text": "Grantor may relocate the easement at Grantor's sole cost upon 90 days' written notice, provided the relocated way is of equal width and grade, provides equal utility and access, and does not increase the distance of travel by more than 5 percent. Grantee's consent shall not be unreasonably withheld."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 11,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Northridge, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 12,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Inspection and Right of Entry",
+      "order": 13,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Attorney's Fees",
+      "order": 14,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

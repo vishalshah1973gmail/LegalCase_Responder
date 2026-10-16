@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-FORECL-0104",
+  "case_name": "Marchetti-Doyle v. Ellsworth-Vane",
+  "full_caption": "Horatio Marchetti-Doyle, Appellant, v. Evanthe Ellsworth-Vane, Appellee",
+  "court": "Court of Appeals of Fairhollow",
+  "jurisdiction": "Fairhollow",
+  "date": "2005-10-28",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2005-8900",
+  "property_address": "2422 Sycamore Reach, Lindenmere, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Horatio Marchetti-Doyle, as servicer for the holder of the note, commenced this foreclosure against Evanthe Ellsworth-Vane with respect to the property at 2422 Sycamore Reach, Lindenmere, FH, securing an original principal balance of $595,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Strict compliance with contractual notice conditions is a condition precedent to acceleration. The notice sent to Evanthe Ellsworth-Vane omitted the reinstatement advisory and was therefore ineffective to accelerate the debt."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The mortgage requires that a notice of default be sent to the borrower's last known address, specifying the default, the action required to cure, a date not less than 5 days from the notice by which the default must be cured, and the borrower's right to reinstate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The equity of redemption may be exercised at any time before the sale is confirmed. Tender must be of the full accelerated balance plus costs, not merely of the arrearage, once acceleration has validly occurred."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Evanthe Ellsworth-Vane made 7 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $300."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — NOTICE OF DEFAULT AND RIGHT TO CURE",
+      "order": 11,
+      "text": "Before accelerating the indebtedness, Lender shall mail to Borrower at Borrower's last known address a notice specifying: (a) the default; (b) the action required to cure it; (c) a date not less than 5 days from the date the notice is mailed by which the default must be cured; (d) that failure to cure by that date may result in acceleration and sale of the Property; and (e) Borrower's right to reinstate after acceleration and to assert in the foreclosure proceeding the non-existence of a default. Strict compliance with this Rider is a condition precedent to acceleration."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — ESCROW ACCOUNT",
+      "order": 12,
+      "text": "Borrower shall pay monthly into escrow one-twelfth of the annual taxes and insurance premiums. Servicer shall conduct an annual escrow analysis and shall furnish Borrower a statement identifying any shortage or surplus. A shortage of $300 or less shall be spread over not fewer than twelve monthly installments and shall not, standing alone, constitute a default."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — TENANT PROTECTIONS AFTER SALE",
+      "order": 13,
+      "text": "A purchaser at the sale takes subject to any bona fide tenancy in existence at the time of the notice of sale. The purchaser shall give a bona fide tenant not less than 45 days' written notice to vacate, and a tenant under a bona fide lease may occupy the Property for the remaining term of the lease unless the purchaser will occupy the Property as a primary residence."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 5 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 15,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    }
+  ]
+}

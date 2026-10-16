@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-ADVERS-0015",
+  "case_name": "Dunmoor v. Copperfield Row",
+  "full_caption": "Isolde Dunmoor, Appellant, v. Copperfield Row Land & Timber Co., Appellee",
+  "court": "Northridge District Court of Appeal, Second District",
+  "jurisdiction": "Northridge",
+  "date": "2018-08-27",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2018-4650",
+  "property_address": "3685 Ferndale Road, Stillwater, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Isolde Dunmoor claims title by adverse possession to a 17.3-acre wooded tract adjoining 3685 Ferndale Road, Stillwater, NR, of which Copperfield Row Land & Timber Co. is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Continuity is broken by an entry of the record owner made with intent to reclaim possession. The single survey visit by Copperfield Row Land & Timber Co.'s agent in 2018, unaccompanied by any assertion of possession, did not interrupt the running of the statute."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Adverse possession requires possession that is actual, open and notorious, exclusive, hostile, and continuous for the statutory period of 7 years. Each element must be established by clear and convincing evidence."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 40-foot strip within the platted right of way is therefore excluded from any judgment in Isolde Dunmoor's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Color of title is not required where the claim rests on actual occupancy, but it enlarges the claim to the full extent of the described premises rather than the portion actually occupied."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Possession is 'actual' where the claimant uses the land as an ordinary owner of similar land would use it. For wooded acreage, selective timbering, posting, and seasonal recreational use may suffice where cultivation would not be expected."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Tacking is permitted between successive possessors in privity. Isolde Dunmoor may tack the 12 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The trial court found the elements satisfied as to 3.1 acres and not satisfied as to the remainder, which lay beyond any fence or posted line. That allocation is not clearly erroneous."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit E-2."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — STATEMENT OF CLAIM AND DESCRIPTION",
+      "order": 10,
+      "text": "Claimant asserts title by adverse possession to a tract of 17.3 acres more particularly described in the surveyor's Exhibit E-2, being that portion of the record parcel lying east of the posted line and north of the old rail grade, and claims the same in fee simple absolute as against all persons."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — TACKING AND PRIVITY",
+      "order": 11,
+      "text": "Claimant tacks to its own possession the 12 years of possession of its immediate predecessor in interest, with whom Claimant is in privity by virtue of the deed recorded at Book 8555, Page 832, which deed purported to convey the disputed tract and thereby transferred the possessory claim along with the record title."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — QUIET TITLE RELIEF REQUESTED",
+      "order": 12,
+      "text": "Claimant requests a decree quieting title in Claimant as against Respondent and all persons claiming under Respondent, describing the vested tract by metes and bounds, directing the Recorder to index the decree against both parcels, and awarding costs. Claimant does not seek damages for the period of possession."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Insurance",
+      "order": 13,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $2,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 14,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Severability",
+      "order": 15,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

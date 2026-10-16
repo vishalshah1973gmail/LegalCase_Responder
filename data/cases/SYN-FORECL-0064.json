@@ -1,0 +1,135 @@
+{
+  "case_id": "SYN-FORECL-0064",
+  "case_name": "Deepwell Property v. Blackthorn Ridge",
+  "full_caption": "Deepwell Property Group, Inc., Appellant, v. Blackthorn Ridge Municipal Housing Authority, Appellee",
+  "court": "Kestrel Land and Property Court, Elmsworth Division",
+  "jurisdiction": "Kestrel",
+  "date": "2021-08-27",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-5443",
+  "property_address": "999 Sycamore Reach, Elmsworth, KS",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Deepwell Property Group, Inc., as servicer for the holder of the note, commenced this foreclosure against Blackthorn Ridge Municipal Housing Authority with respect to the property at 999 Sycamore Reach, Elmsworth, KS, securing an original principal balance of $230,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A deficiency judgment is available only where the foreclosure sale price is confirmed as commercially reasonable. The bid of $145,000 against an appraised value of $180,000 is presumptively unreasonable and requires an evidentiary hearing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The mortgage requires that a notice of default be sent to the borrower's last known address, specifying the default, the action required to cure, a date not less than 3 days from the notice by which the default must be cured, and the borrower's right to reinstate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The equity of redemption may be exercised at any time before the sale is confirmed. Tender must be of the full accelerated balance plus costs, not merely of the arrearage, once acceleration has validly occurred."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Strict compliance with contractual notice conditions is a condition precedent to acceleration. The notice sent to Blackthorn Ridge Municipal Housing Authority omitted the reinstatement advisory and was therefore ineffective to accelerate the debt."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Blackthorn Ridge Municipal Housing Authority made 11 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $3,500."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — ESCROW ACCOUNT",
+      "order": 13,
+      "text": "Borrower shall pay monthly into escrow one-twelfth of the annual taxes and insurance premiums. Servicer shall conduct an annual escrow analysis and shall furnish Borrower a statement identifying any shortage or surplus. A shortage of $3,500 or less shall be spread over not fewer than twelve monthly installments and shall not, standing alone, constitute a default."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Interpretation and Construction Against Drafter",
+      "order": 14,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Recording",
+      "order": 15,
+      "text": "This instrument shall be recorded in the land records of Elmsworth County, Kestrel, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 3 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Insurance",
+      "order": 16,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $1,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Indemnity",
+      "order": 17,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    }
+  ]
+}

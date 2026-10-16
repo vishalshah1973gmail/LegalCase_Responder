@@ -1,0 +1,100 @@
+{
+  "case_id": "SYN-ADVERS-0035",
+  "case_name": "Amberline Holdings v. Dunmoor",
+  "full_caption": "Amberline Holdings, LLC, Appellant, v. Bertram Dunmoor, Appellee",
+  "court": "Westmarch Superior Court, Windmere County",
+  "jurisdiction": "Westmarch",
+  "date": "2024-04-24",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2024-6140",
+  "property_address": "1695 Old Quarry Turnpike, Windmere, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Amberline Holdings, LLC claims title by adverse possession to a 1.4-acre wooded tract adjoining 1695 Old Quarry Turnpike, Windmere, WM, of which Bertram Dunmoor is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Possession is 'actual' where the claimant uses the land as an ordinary owner of similar land would use it. For wooded acreage, selective timbering, posting, and seasonal recreational use may suffice where cultivation would not be expected."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 12-foot strip within the platted right of way is therefore excluded from any judgment in Amberline Holdings, LLC's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Continuity is broken by an entry of the record owner made with intent to reclaim possession. The single survey visit by Bertram Dunmoor's agent in 2024, unaccompanied by any assertion of possession, did not interrupt the running of the statute."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Amberline Holdings, LLC posted the tract against trespass in 1993, cut and sold standing timber in 2005 and 2011, and maintained a hunting camp on the northeast quarter continuously thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Hostility does not require ill will. It requires only that the possession be without the record owner's permission and inconsistent with the owner's title. A claimant's mistaken belief as to the true line does not defeat hostility in this State."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Tacking is permitted between successive possessors in privity. Amberline Holdings, LLC may tack the 5 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit D-1."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — TACKING AND PRIVITY",
+      "order": 9,
+      "text": "Claimant tacks to its own possession the 5 years of possession of its immediate predecessor in interest, with whom Claimant is in privity by virtue of the deed recorded at Book 6201, Page 402, which deed purported to convey the disputed tract and thereby transferred the possessory claim along with the record title."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — EXCLUSIONS FROM CLAIM",
+      "order": 10,
+      "text": "This claim expressly excludes: (a) any land held by the municipality or the State for a public purpose, including the 12-foot platted right of way; (b) any land subject to a recorded easement, as to which Claimant asserts no interest inconsistent with the easement; and (c) any subsurface mineral estate previously severed of record."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Notice",
+      "order": 11,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Waiver and Course of Dealing",
+      "order": 12,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-EMINEN-0018",
+  "case_name": "Deepwell Capital v. Stonebrook Homeowners",
+  "full_caption": "Deepwell Capital Servicing, LLC, Appellant, v. Stonebrook Homeowners Association, Inc., Appellee",
+  "court": "Sable Land and Property Court, Lindenmere Division",
+  "jurisdiction": "Sable",
+  "date": "2008-08-24",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2008-2233",
+  "property_address": "1937 Kingfisher Drive, Lindenmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Lindenmere County Redevelopment Authority condemned 1.4 acres owned by Stonebrook Homeowners Association, Inc. at 1937 Kingfisher Drive, Lindenmere, SB for construction of a microbrewery taproom. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Interest on the award runs from the date of taking to the date of payment at the statutory rate of 8 percent, and is a component of just compensation rather than a matter of legislative grace."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The 'scope of the project' rule excludes from the valuation any increase or decrease in value attributable to the project itself, including value changes flowing from the announcement of the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The trial court excluded testimony valuing the parcel as light-industrial land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The highest and best use of the property is the use to which it may reasonably be put in the reasonably near future. A use dependent on a rezoning is admissible only on a showing that the rezoning was reasonably probable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A taking may be effected without formal proceedings where governmental action substantially deprives the owner of the beneficial use of the land. The 24-month closure of the only access drive states a claim for inverse condemnation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — MEASURE OF JUST COMPENSATION",
+      "order": 10,
+      "text": "Compensation shall be the fair market value of the part taken, determined as of the date of taking, plus damages to the remainder resulting from the taking and from the construction and use of the project as planned, less the value of any special benefit conferred on the remainder. General benefits shared with the community at large shall not be offset. Value shall be determined with reference to the highest and best use, which may include a use requiring a rezoning where the rezoning is reasonably probable."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — EXCLUDED EVIDENCE",
+      "order": 11,
+      "text": "The following are not admissible on the issue of value: the price paid by the Condemnor for other parcels acquired for this project; any increase or decrease in value attributable to the project itself or to its announcement; offers to purchase not accepted; and the assessed valuation for property tax purposes."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION AND BUSINESS LOSSES",
+      "order": 12,
+      "text": "The Owner is entitled to actual and reasonable moving expenses, expenses of searching for a replacement site not exceeding $25,000, and reestablishment expenses. Loss of business profits and loss of goodwill are not compensable except to the extent expressly provided by statute. Payment of relocation benefits is not an offset against just compensation."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Severability",
+      "order": 13,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Notice",
+      "order": 14,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    }
+  ]
+}

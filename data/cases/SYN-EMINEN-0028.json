@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-EMINEN-0028",
+  "case_name": "Nettleford v. Jarrowmere",
+  "full_caption": "Rosalind Nettleford, Appellant, v. Desmond Jarrowmere, Appellee",
+  "court": "Supreme Court of Sable",
+  "jurisdiction": "Sable",
+  "date": "2006-05-02",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2006-2404",
+  "property_address": "3988 Kingfisher Drive, Lindenmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Lindenmere County Redevelopment Authority condemned 2.7 acres owned by Desmond Jarrowmere at 3988 Kingfisher Drive, Lindenmere, SB for construction of a day-care center. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The highest and best use of the property is the use to which it may reasonably be put in the reasonably near future. A use dependent on a rezoning is admissible only on a showing that the rezoning was reasonably probable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Interest on the award runs from the date of taking to the date of payment at the statutory rate of 3 percent, and is a component of just compensation rather than a matter of legislative grace."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Evidence of the price paid by the condemnor for neighboring parcels is generally inadmissible, because such sales are made under the shadow of the condemnation power and are not free-market transactions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A taking may be effected without formal proceedings where governmental action substantially deprives the owner of the beneficial use of the land. The 18-month closure of the only access drive states a claim for inverse condemnation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Business losses are not compensable as such. Loss of goodwill is recoverable only where a statute so provides; this State's statute permits recovery of relocation expenses of $440,000 but not lost profits."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The trial court excluded testimony valuing the parcel as highway-commercial land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — EXCLUDED EVIDENCE",
+      "order": 11,
+      "text": "The following are not admissible on the issue of value: the price paid by the Condemnor for other parcels acquired for this project; any increase or decrease in value attributable to the project itself or to its announcement; offers to purchase not accepted; and the assessed valuation for property tax purposes."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Indemnity",
+      "order": 12,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Successors, Assigns and Runs With the Land",
+      "order": 13,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    }
+  ]
+}

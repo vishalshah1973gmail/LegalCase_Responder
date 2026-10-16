@@ -1,0 +1,93 @@
+{
+  "case_id": "SYN-LEASER-0027",
+  "case_name": "Stonebrook Capital v. Cadwallon",
+  "full_caption": "Stonebrook Capital Servicing, LLC, Appellant, v. Nikolai Cadwallon, Appellee",
+  "court": "Supreme Court of Calloway",
+  "jurisdiction": "Calloway",
+  "date": "2023-01-25",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2023-9405",
+  "property_address": "1622 Ferndale Road, Lindenmere, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Stonebrook Capital Servicing, LLC, as landlord, and Nikolai Cadwallon, as tenant, for 500 square feet at 1622 Ferndale Road, Lindenmere, CW."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Assignment and Subletting Rider conditions transfer on the landlord's consent, 'which shall not be unreasonably withheld.' Reasonableness is measured by objective commercial criteria: the proposed transferee's financial capacity, use, and experience."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 90 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The Holdover Rider fixes holdover rent at 1.5 times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The Late Fee Rider assesses a charge of 3 percent of any installment not received by the 15th day of the month, together with interest at 9 percent per annum on the unpaid balance from the due date."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Judgment for Nikolai Cadwallon on the late-fee and default-interest claim is affirmed; judgment for Stonebrook Capital Servicing, LLC on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — ASSIGNMENT, SUBLETTING AND RECAPTURE",
+      "order": 9,
+      "text": "Tenant shall not assign this Lease or sublet all or any part of the Premises without Landlord's prior written consent, which shall not be unreasonably withheld, conditioned or delayed. Landlord's consent shall be deemed reasonable if based on the proposed transferee's financial condition, business reputation, proposed use, or the compatibility of that use with the tenant mix of the Center. Upon request for consent to an assignment of the entire Premises, Landlord may elect within 90 days to recapture the Premises and terminate this Lease. Absent such recapture election, Landlord shall not condition consent upon payment of any portion of the transfer consideration in excess of 100 percent of the profit remaining after Tenant's reasonable transaction costs."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 10,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Calloway."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 11,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

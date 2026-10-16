@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-LEASER-0107",
+  "case_name": "Two Rivers v. Cinderfield Municipal",
+  "full_caption": "Two Rivers Capital Servicing, LLC, Appellant, v. Cinderfield Municipal Housing Authority, Appellee",
+  "court": "Supreme Court of Marrowdale",
+  "jurisdiction": "Marrowdale",
+  "date": "2023-12-23",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2023-6732",
+  "property_address": "2769 Pennyroyal Court, Pinecrest, MD",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Two Rivers Capital Servicing, LLC, as landlord, and Cinderfield Municipal Housing Authority, as tenant, for 400 square feet at 2769 Pennyroyal Court, Pinecrest, MD."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Assignment and Subletting Rider conditions transfer on the landlord's consent, 'which shall not be unreasonably withheld.' Reasonableness is measured by objective commercial criteria: the proposed transferee's financial capacity, use, and experience."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A landlord may not withhold consent in order to extract a rent increase not bargained for in the lease. The demand for 25 percent of the sublease profits, absent a recapture provision, was unreasonable as a matter of law."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The Percentage Rent Rider obligates Cinderfield Municipal Housing Authority to pay 4 percent of annual gross sales in excess of a breakpoint of $1,175,000, with 'gross sales' defined to exclude returns, sales taxes collected, and inter-store transfers."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 90 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The Late Fee Rider assesses a charge of 8 percent of any installment not received by the 15th day of the month, together with interest at 6 percent per annum on the unpaid balance from the due date."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The Holdover Rider fixes holdover rent at two (2) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Judgment for Cinderfield Municipal Housing Authority on the late-fee and default-interest claim is affirmed; judgment for Two Rivers Capital Servicing, LLC on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — CONTINUOUS OPERATION AND GOING DARK",
+      "order": 12,
+      "text": "Tenant shall continuously operate the Premises under its trade name during the hours the Center is open. If Tenant ceases operations for more than 30 consecutive days other than for remodeling, casualty, or force majeure, Landlord's sole remedies shall be (a) to collect substitute rent equal to two (2) times Base Rent for each month of closure, and (b) to terminate this Lease on thirty days' notice. The parties agree that these remedies are adequate and that Landlord shall not be entitled to specific performance of this Rider."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 13,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Marrowdale."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Waiver and Course of Dealing",
+      "order": 14,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    }
+  ]
+}

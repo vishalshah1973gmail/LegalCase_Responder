@@ -1,0 +1,100 @@
+{
+  "case_id": "SYN-BOUNDA-0042",
+  "case_name": "Ingleside v. Halloway Bend",
+  "full_caption": "Adaline Ingleside, Appellant, v. Halloway Bend Realty Trust, Appellee",
+  "court": "Northridge Land and Property Court, Lindenmere Division",
+  "jurisdiction": "Northridge",
+  "date": "2013-02-11",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2013-2965",
+  "property_address": "798 Kingfisher Drive, Lindenmere, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Harper's Cut. The dispute concerns a strip approximately 20 feet in width lying between the fence line maintained since 1979 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The surveyor called by Adaline Ingleside located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Halloway Bend Realty Trust began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 31°42' E to N 70°02' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A quiet-title plaintiff must recover on the strength of its own title and not on the weakness of the defendant's. Adaline Ingleside traced an unbroken chain to the 1997 patent and thereby carried that burden as to the residue of the parcel."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 15 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment quieting title in Adaline Ingleside to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER V",
+      "heading": "RIDER V — MUTUAL RELEASE AND QUIET ENJOYMENT",
+      "order": 10,
+      "text": "Each party releases the other from all claims for trespass, ejectment, or damage to the disputed strip arising before the date of this agreement, and covenants not to disturb the other's quiet enjoyment of the land lying on that party's side of the agreed line."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Dispute Resolution",
+      "order": 11,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 7 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 12,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

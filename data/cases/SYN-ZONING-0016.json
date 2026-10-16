@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-ZONING-0016",
+  "case_name": "Verdant Acre v. Quarrytown Land",
+  "full_caption": "Verdant Acre Homeowners Association, Inc., Appellant, v. Quarrytown Land & Timber Co., Appellee",
+  "court": "Court of Appeals of Sable",
+  "jurisdiction": "Sable",
+  "date": "2025-08-01",
+  "case_type": "zoning",
+  "case_type_label": "Zoning / Land Use",
+  "source": "synthetic",
+  "docket_number": "SYN-2025-8489",
+  "property_address": "2948 Ferndale Road, Windmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Verdant Acre Homeowners Association, Inc. appeals the denial by the Windmere County Board of Adjustment of a use variance permitting operation of a county recycling transfer station at 2948 Ferndale Road, Windmere, SB, a parcel zoned R-1A single-family residential."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "An area variance is governed by a balancing test weighing the benefit to the applicant against the detriment to the health, safety and welfare of the neighborhood, and does not require the showing of hardship applicable to use variances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A use variance requires proof of unnecessary hardship: that the property cannot yield a reasonable return in any permitted use, that the hardship is unique to the parcel, and that the variance will not alter the essential character of the locality."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A nonconforming use lawfully existing at the effective date of the ordinance may continue but may not be enlarged, and is lost by abandonment or by discontinuance for the period specified in the ordinance."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Discontinuance for 24 months is presumed abandonment under Section 15.5 of the ordinance. The presumption is rebutted by proof of an intent to resume coupled with overt acts consistent with that intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Vested rights against a subsequent ordinance arise where the developer, in good-faith reliance on a validly issued permit, has made substantial expenditures. Verdant Acre Homeowners Association, Inc. expended $705,000 on site work before the moratorium was adopted."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Hardship must arise from the land itself and not from the owner's personal circumstances or from a self-created condition. Purchase with knowledge of the restriction is a factor but is not, standing alone, disqualifying."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The board's findings must be sufficient to permit meaningful review. Conclusory recitals tracking the language of the ordinance, without reference to record evidence, require remand."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Spot zoning is the singling out of a small parcel for treatment differing from that of surrounding property, for the benefit of the owner and to the detriment of the comprehensive plan. The rezoning here served a plan objective and is not spot zoning."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The denial is vacated and the matter remanded to the Board for findings addressing the drainage easement and the shape of the parcel."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — VESTED RIGHTS AND MORATORIUM",
+      "order": 11,
+      "text": "A permittee who, in good-faith reliance on a validly issued permit, has incurred substantial expenditures or substantially changed position acquires a vested right to complete the development in accordance with the permit, notwithstanding any subsequently adopted ordinance or moratorium. Expenditures for architectural, engineering and permitting services alone are not 'substantial' for purposes of this Rider unless they exceed 5 percent of the total project cost."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 12,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 3 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Dispute Resolution",
+      "order": 13,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 3 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

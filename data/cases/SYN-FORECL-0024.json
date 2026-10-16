@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-FORECL-0024",
+  "case_name": "Prendergast v. Applegate Commons",
+  "full_caption": "Ulric Prendergast, Appellant, v. Applegate Commons Realty Trust, Appellee",
+  "court": "Supreme Court of Ardenne",
+  "jurisdiction": "Ardenne",
+  "date": "2015-08-04",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2015-7490",
+  "property_address": "2738 Ferndale Road, Pinecrest, AR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Ulric Prendergast, as servicer for the holder of the note, commenced this foreclosure against Applegate Commons Realty Trust with respect to the property at 2738 Ferndale Road, Pinecrest, AR, securing an original principal balance of $160,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The mortgage requires that a notice of default be sent to the borrower's last known address, specifying the default, the action required to cure, a date not less than 15 days from the notice by which the default must be cured, and the borrower's right to reinstate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Applegate Commons Realty Trust made 3 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $450."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The equity of redemption may be exercised at any time before the sale is confirmed. Tender must be of the full accelerated balance plus costs, not merely of the arrearage, once acceleration has validly occurred."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — NOTICE OF DEFAULT AND RIGHT TO CURE",
+      "order": 9,
+      "text": "Before accelerating the indebtedness, Lender shall mail to Borrower at Borrower's last known address a notice specifying: (a) the default; (b) the action required to cure it; (c) a date not less than 15 days from the date the notice is mailed by which the default must be cured; (d) that failure to cure by that date may result in acceleration and sale of the Property; and (e) Borrower's right to reinstate after acceleration and to assert in the foreclosure proceeding the non-existence of a default. Strict compliance with this Rider is a condition precedent to acceleration."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SALE, DEFICIENCY AND SURPLUS",
+      "order": 10,
+      "text": "Any sale shall be conducted publicly after publication for 3 consecutive weeks. No deficiency judgment shall be entered unless the court finds, after an evidentiary hearing, that the sale price was commercially reasonable in relation to the fair market value of the Property. Any surplus remaining after satisfaction of the debt, costs and junior liens of record shall be paid to Borrower within 21 days of confirmation."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — TENANT PROTECTIONS AFTER SALE",
+      "order": 11,
+      "text": "A purchaser at the sale takes subject to any bona fide tenancy in existence at the time of the notice of sale. The purchaser shall give a bona fide tenant not less than 30 days' written notice to vacate, and a tenant under a bona fide lease may occupy the Property for the remaining term of the lease unless the purchaser will occupy the Property as a primary residence."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 12,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 15 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Notice",
+      "order": 13,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Recording",
+      "order": 14,
+      "text": "This instrument shall be recorded in the land records of Pinecrest County, Ardenne, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 15 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Governing Law",
+      "order": 15,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Ardenne, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Pinecrest County, Ardenne, and each party consents to the personal jurisdiction of those courts."
+    }
+  ]
+}

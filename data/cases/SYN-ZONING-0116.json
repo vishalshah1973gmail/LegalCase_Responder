@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-ZONING-0116",
+  "case_name": "Marchetti-Doyle v. Quarrytown Property",
+  "full_caption": "Ottoline Marchetti-Doyle, Appellant, v. Quarrytown Property Group, Inc., Appellee",
+  "court": "Westmarch Superior Court, Stillwater County",
+  "jurisdiction": "Westmarch",
+  "date": "2016-02-13",
+  "case_type": "zoning",
+  "case_type_label": "Zoning / Land Use",
+  "source": "synthetic",
+  "docket_number": "SYN-2016-3710",
+  "property_address": "326 Old Quarry Turnpike, Stillwater, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Ottoline Marchetti-Doyle appeals the denial by the Stillwater County Board of Adjustment of a use variance permitting operation of a day-care center at 326 Old Quarry Turnpike, Stillwater, WM, a parcel zoned R-3 single-family residential."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The parcel is 1,360 square feet, irregular in shape, and burdened by a drainage easement across 8 percent of its buildable area. Those are conditions of the land and not of the owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A use variance requires proof of unnecessary hardship: that the property cannot yield a reasonable return in any permitted use, that the hardship is unique to the parcel, and that the variance will not alter the essential character of the locality."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "An area variance is governed by a balancing test weighing the benefit to the applicant against the detriment to the health, safety and welfare of the neighborhood, and does not require the showing of hardship applicable to use variances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A nonconforming use lawfully existing at the effective date of the ordinance may continue but may not be enlarged, and is lost by abandonment or by discontinuance for the period specified in the ordinance."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The board's findings must be sufficient to permit meaningful review. Conclusory recitals tracking the language of the ordinance, without reference to record evidence, require remand."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Vested rights against a subsequent ordinance arise where the developer, in good-faith reliance on a validly issued permit, has made substantial expenditures. Ottoline Marchetti-Doyle expended $430,000 on site work before the moratorium was adopted."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The denial is vacated and the matter remanded to the Board for findings addressing the drainage easement and the shape of the parcel."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — VARIANCE APPLICATION AND FINDINGS REQUIRED",
+      "order": 9,
+      "text": "An application for a use variance shall be granted only upon written findings, supported by substantial evidence in the record, that: (1) the property cannot yield a reasonable return in any use permitted in the district; (2) the hardship arises from conditions unique to the parcel and not generally applicable in the district; (3) the hardship was not self-created; and (4) the variance will not alter the essential character of the locality. Findings that merely recite the language of this Rider without reference to record evidence are insufficient."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — NONCONFORMING USE AND ABANDONMENT",
+      "order": 10,
+      "text": "A use lawfully existing on the effective date of this ordinance may continue in its then-existing scope but shall not be enlarged, extended to additional land, or changed to another nonconforming use. Discontinuance of the use for 18 consecutive months creates a rebuttable presumption of abandonment, which may be overcome by evidence of an intent to resume together with overt acts consistent with that intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Successors, Assigns and Runs With the Land",
+      "order": 11,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 12,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Counterparts and Electronic Signature",
+      "order": 13,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Westmarch."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Recording",
+      "order": 14,
+      "text": "This instrument shall be recorded in the land records of Stillwater County, Westmarch, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 15 days of recording."
+    }
+  ]
+}

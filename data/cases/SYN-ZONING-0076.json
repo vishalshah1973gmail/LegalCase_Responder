@@ -1,0 +1,128 @@
+{
+  "case_id": "SYN-ZONING-0076",
+  "case_name": "Ravensmere v. Deepwell Homeowners",
+  "full_caption": "Horatio Ravensmere, Appellant, v. Deepwell Homeowners Association, Inc., Appellee",
+  "court": "Supreme Court of Westmarch",
+  "jurisdiction": "Westmarch",
+  "date": "2022-12-25",
+  "case_type": "zoning",
+  "case_type_label": "Zoning / Land Use",
+  "source": "synthetic",
+  "docket_number": "SYN-2022-7659",
+  "property_address": "2578 Ferndale Road, Cobbleton, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Horatio Ravensmere appeals the denial by the Cobbleton County Board of Adjustment of a use variance permitting operation of a self-storage facility at 2578 Ferndale Road, Cobbleton, WM, a parcel zoned R-2 single-family residential."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Exhaustion of administrative remedies is a prerequisite to judicial review. A facial constitutional challenge to the ordinance is excepted from that requirement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Discontinuance for 6 months is presumed abandonment under Section 7.9 of the ordinance. The presumption is rebutted by proof of an intent to resume coupled with overt acts consistent with that intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "An area variance is governed by a balancing test weighing the benefit to the applicant against the detriment to the health, safety and welfare of the neighborhood, and does not require the showing of hardship applicable to use variances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The parcel is 1,280 square feet, irregular in shape, and burdened by a drainage easement across 5 percent of its buildable area. Those are conditions of the land and not of the owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The board's findings must be sufficient to permit meaningful review. Conclusory recitals tracking the language of the ordinance, without reference to record evidence, require remand."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Spot zoning is the singling out of a small parcel for treatment differing from that of surrounding property, for the benefit of the owner and to the detriment of the comprehensive plan. The rezoning here served a plan objective and is not spot zoning."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A nonconforming use lawfully existing at the effective date of the ordinance may continue but may not be enlarged, and is lost by abandonment or by discontinuance for the period specified in the ordinance."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Vested rights against a subsequent ordinance arise where the developer, in good-faith reliance on a validly issued permit, has made substantial expenditures. Horatio Ravensmere expended $350,000 on site work before the moratorium was adopted."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "A use variance requires proof of unnecessary hardship: that the property cannot yield a reasonable return in any permitted use, that the hardship is unique to the parcel, and that the variance will not alter the essential character of the locality."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The denial is vacated and the matter remanded to the Board for findings addressing the drainage easement and the shape of the parcel."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — NONCONFORMING USE AND ABANDONMENT",
+      "order": 12,
+      "text": "A use lawfully existing on the effective date of this ordinance may continue in its then-existing scope but shall not be enlarged, extended to additional land, or changed to another nonconforming use. Discontinuance of the use for 6 consecutive months creates a rebuttable presumption of abandonment, which may be overcome by evidence of an intent to resume together with overt acts consistent with that intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 13,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Westmarch, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Waiver and Course of Dealing",
+      "order": 14,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Force Majeure",
+      "order": 15,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 5 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Inspection and Right of Entry",
+      "order": 16,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    }
+  ]
+}

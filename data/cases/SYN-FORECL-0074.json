@@ -1,0 +1,149 @@
+{
+  "case_id": "SYN-FORECL-0074",
+  "case_name": "Ellsworth-Vane v. Marbury Hollow",
+  "full_caption": "Lucian Ellsworth-Vane, Appellant, v. Marbury Hollow Holdings, LLC, Appellee",
+  "court": "Sable Superior Court, Lindenmere County",
+  "jurisdiction": "Sable",
+  "date": "2020-03-03",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2020-1788",
+  "property_address": "2311 Harper's Cut, Lindenmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Lucian Ellsworth-Vane, as servicer for the holder of the note, commenced this foreclosure against Marbury Hollow Holdings, LLC with respect to the property at 2311 Harper's Cut, Lindenmere, SB, securing an original principal balance of $250,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The mortgage requires that a notice of default be sent to the borrower's last known address, specifying the default, the action required to cure, a date not less than 10 days from the notice by which the default must be cured, and the borrower's right to reinstate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The equity of redemption may be exercised at any time before the sale is confirmed. Tender must be of the full accelerated balance plus costs, not merely of the arrearage, once acceleration has validly occurred."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A deficiency judgment is available only where the foreclosure sale price is confirmed as commercially reasonable. The bid of $195,000 against an appraised value of $395,000 is presumptively unreasonable and requires an evidentiary hearing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Marbury Hollow Holdings, LLC made 12 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $3,100."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Strict compliance with contractual notice conditions is a condition precedent to acceleration. The notice sent to Marbury Hollow Holdings, LLC omitted the reinstatement advisory and was therefore ineffective to accelerate the debt."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — NOTICE OF DEFAULT AND RIGHT TO CURE",
+      "order": 13,
+      "text": "Before accelerating the indebtedness, Lender shall mail to Borrower at Borrower's last known address a notice specifying: (a) the default; (b) the action required to cure it; (c) a date not less than 10 days from the date the notice is mailed by which the default must be cured; (d) that failure to cure by that date may result in acceleration and sale of the Property; and (e) Borrower's right to reinstate after acceleration and to assert in the foreclosure proceeding the non-existence of a default. Strict compliance with this Rider is a condition precedent to acceleration."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — LOSS MITIGATION AND TRIAL PLAN",
+      "order": 14,
+      "text": "Upon receipt of a complete loss-mitigation application more than 45 days before a scheduled sale, Servicer shall evaluate the application for all available alternatives to foreclosure and shall not move for judgment or conduct a sale while the evaluation is pending. Where Borrower makes all payments required by a trial plan, Servicer shall offer a permanent modification on the terms the trial plan describes, and may not deny the modification on a ground that was known and could have been raised before the trial plan was offered."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — ESCROW ACCOUNT",
+      "order": 15,
+      "text": "Borrower shall pay monthly into escrow one-twelfth of the annual taxes and insurance premiums. Servicer shall conduct an annual escrow analysis and shall furnish Borrower a statement identifying any shortage or surplus. A shortage of $3,100 or less shall be spread over not fewer than twelve monthly installments and shall not, standing alone, constitute a default."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Inspection and Right of Entry",
+      "order": 16,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Notice",
+      "order": 17,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Recording",
+      "order": 18,
+      "text": "This instrument shall be recorded in the land records of Lindenmere County, Sable, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 10 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Time of the Essence",
+      "order": 19,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Sable, the period is extended to the next business day."
+    }
+  ]
+}

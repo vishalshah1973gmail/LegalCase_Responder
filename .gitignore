@@ -1,0 +1,19 @@
+# Secrets — never commit
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# The index is normally a build artifact, BUT the deployed app needs it committed
+# because Streamlit Community Cloud's filesystem is ephemeral. Build it with
+#   python scripts/build_index_for_deploy.py
+# then force-add it:
+#   git add -f db/
+db/chroma/
+db/metadata.sqlite
+
+# delivery bundle from the build session - not part of the project
+_LegalCase_Responder_bundle.zip

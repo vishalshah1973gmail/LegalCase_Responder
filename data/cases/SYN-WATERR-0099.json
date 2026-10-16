@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-WATERR-0099",
+  "case_name": "Halloway Bend v. Amberline Property",
+  "full_caption": "Halloway Bend Capital Servicing, LLC, Appellant, v. Amberline Property Group, Inc., Appellee",
+  "court": "Fairhollow Superior Court, Pinecrest County",
+  "jurisdiction": "Fairhollow",
+  "date": "2009-12-18",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2009-5292",
+  "property_address": "4393 Kingfisher Drive, Pinecrest, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Halloway Bend Capital Servicing, LLC and Amberline Property Group, Inc. own riparian tracts along the Brightwater Branch within Pinecrest County. The dispute concerns Amberline Property Group, Inc.'s diversion of approximately 725 gallons per minute for irrigation of 24.0 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A use that wholly deprives a downstream riparian of water for domestic purposes is unreasonable as a matter of law, without regard to the economic value of the upstream use."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The public trust doctrine reserves to the State title to the beds of navigable waters. Navigability for title purposes is determined by susceptibility to commercial navigation at the date of statehood."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The 96 days of well failure experienced by Halloway Bend Capital Servicing, LLC coincided with the operation of Amberline Property Group, Inc.'s high-capacity irrigation well 16 feet from the shared aquifer boundary. Causation was established by drawdown modeling."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 1981 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The injunction is modified to permit diversion not exceeding 275 gallons per minute between March and November, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — GROUNDWATER AND WELL INTERFERENCE",
+      "order": 12,
+      "text": "No high-capacity well shall be completed within 16 feet of an existing domestic well without a drawdown analysis furnished to the affected owner. If operation of a high-capacity well causes an existing domestic well to fail or its yield to fall below five gallons per minute, the operator shall, at its expense, deepen or replace the affected well or provide an equivalent permanent supply. Withdrawal for export off the overlying tract is prohibited where it injures a neighboring overlying user."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SEVERED MINERAL ESTATE AND SURFACE ACCOMMODATION",
+      "order": 13,
+      "text": "The owner of the severed mineral estate may use so much of the surface as is reasonably necessary for exploration and production, and shall accommodate existing surface uses where a reasonable alternative means of extraction exists. Before siting any wellpad within an irrigated area, the operator shall evaluate in writing off-site and directional alternatives and shall furnish that evaluation to the surface owner not less than 60 days before entry."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Insurance",
+      "order": 14,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $1,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Governing Law",
+      "order": 15,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Fairhollow, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Pinecrest County, Fairhollow, and each party consents to the personal jurisdiction of those courts."
+    }
+  ]
+}

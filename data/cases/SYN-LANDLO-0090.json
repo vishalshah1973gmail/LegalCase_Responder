@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-LANDLO-0090",
+  "case_name": "Grimsby-Hale v. Ingleside",
+  "full_caption": "Evanthe Grimsby-Hale, Appellant, v. Verity Ingleside, Appellee",
+  "court": "Marrowdale Superior Court, Ashbourne County",
+  "jurisdiction": "Marrowdale",
+  "date": "2013-10-19",
+  "case_type": "landlord_tenant",
+  "case_type_label": "Landlord-Tenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2013-5141",
+  "property_address": "2687 Pennyroyal Court, Ashbourne, MD",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Appellant Evanthe Grimsby-Hale is the record owner of the residential building located at 2687 Pennyroyal Court, Ashbourne, MD, a 24-unit structure operated as rental housing since 1983. Appellee Verity Ingleside occupied Unit 2B under a written lease dated March 8, 2014."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A late fee is enforceable only where it bears a reasonable relationship to the administrative cost actually incurred by the landlord in processing a delinquent payment. A charge of $125 against a monthly obligation of $1,625 exceeds that relationship and is unenforceable to the extent it exceeds five percent of the installment."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The record establishes that Evanthe Grimsby-Hale received written notice of the heating defect on July 28, 2010 and did not dispatch a repair contractor until March 7, 2018, an interval of 21 days. During that interval overnight interior temperatures fell below fifty-five degrees on at least eleven occasions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A tenant electing to withhold rent under the repair-and-deduct statute must (1) give written notice of the defect, (2) allow a reasonable time for cure, and (3) deposit the withheld sums with the clerk of court or into a segregated account. Verity Ingleside satisfied the first two requirements but did not deposit the withheld rent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Verity Ingleside withheld rent for the months of February and August of 1997, asserting that the premises were untenantable by reason of a persistent failure of the heating system and recurring water intrusion at the north wall of the unit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The security deposit of $2,450 was not returned within 30 days of surrender, nor was an itemized statement of deductions furnished. The statutory consequence is forfeiture of the landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The lease provided for monthly rent of $1,625, due on the first day of each month, with a late charge of $125 assessed on any installment remaining unpaid after the 10th day of the month. The trial court found that this charge operated as a penalty rather than as liquidated damages."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The trial court awarded Verity Ingleside attorney's fees of $22,000 under the reciprocal-fee provision. Where a lease grants fees to the landlord, this State reads the provision as mutual, and the prevailing tenant recovers on the same terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Retaliatory eviction is presumed where a landlord commences a summary possession action within 6 months after a tenant has reported a code violation to the municipal housing inspector. The presumption is rebuttable by clear and convincing evidence of an independent, non-retaliatory ground."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "We affirm in part and reverse in part. The judgment of possession is vacated; the money judgment is remanded for recalculation consistent with the late-fee holding set out above."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — SECURITY DEPOSIT",
+      "order": 11,
+      "text": "Landlord holds the sum of $2,450 as security for Tenant's performance. The deposit shall be held in a segregated interest-bearing account at a federally insured institution located within this State. Within 30 days after surrender of the Premises, Landlord shall return the deposit together with accrued interest, less any lawful deductions, accompanied by an itemized written statement identifying each deduction and attaching supporting invoices. Failure to furnish the itemized statement within that period forfeits Landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — PETS AND ASSISTANCE ANIMALS",
+      "order": 12,
+      "text": "No animal shall be kept on the Premises without Landlord's prior written consent, except that this Rider does not apply to a service animal or to a reasonable accommodation required by fair-housing law, for which no pet deposit or pet rent may be charged. Where consent is granted, Tenant shall pay a refundable pet deposit of $300 and shall be liable for all damage caused by the animal beyond ordinary wear."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — SUBLETTING AND EARLY TERMINATION",
+      "order": 13,
+      "text": "Tenant may not sublet the Premises or assign this Lease without Landlord's written consent, which shall not be unreasonably withheld or delayed. Tenant may terminate early upon 45 days' written notice and payment of a termination fee equal to two (2) monthly installments, provided that no termination fee shall be charged where the termination follows Landlord's material breach, a lawful lease-break for domestic violence, or military relocation orders."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 10 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 15,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

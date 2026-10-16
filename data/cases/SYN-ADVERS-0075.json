@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-ADVERS-0075",
+  "case_name": "Nettleford v. Prendergast",
+  "full_caption": "Cordelia Nettleford, Appellant, v. Theodora Prendergast, Appellee",
+  "court": "Northridge Superior Court, Ashbourne County",
+  "jurisdiction": "Northridge",
+  "date": "2020-06-12",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2020-4400",
+  "property_address": "377 Bellweather Street, Ashbourne, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Cordelia Nettleford claims title by adverse possession to a 5.2-acre wooded tract adjoining 377 Bellweather Street, Ashbourne, NR, of which Theodora Prendergast is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 12-foot strip within the platted right of way is therefore excluded from any judgment in Cordelia Nettleford's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Tacking is permitted between successive possessors in privity. Cordelia Nettleford may tack the 4 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The trial court found the elements satisfied as to 11.4 acres and not satisfied as to the remainder, which lay beyond any fence or posted line. That allocation is not clearly erroneous."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Color of title is not required where the claim rests on actual occupancy, but it enlarges the claim to the full extent of the described premises rather than the portion actually occupied."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Cordelia Nettleford posted the tract against trespass in 1988, cut and sold standing timber in 2000 and 2013, and maintained a hunting camp on the northeast quarter continuously thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Adverse possession requires possession that is actual, open and notorious, exclusive, hostile, and continuous for the statutory period of 21 years. Each element must be established by clear and convincing evidence."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit D-1."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — STATEMENT OF CLAIM AND DESCRIPTION",
+      "order": 9,
+      "text": "Claimant asserts title by adverse possession to a tract of 5.2 acres more particularly described in the surveyor's Exhibit D-1, being that portion of the record parcel lying east of the posted line and north of the old rail grade, and claims the same in fee simple absolute as against all persons."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — QUIET TITLE RELIEF REQUESTED",
+      "order": 10,
+      "text": "Claimant requests a decree quieting title in Claimant as against Respondent and all persons claiming under Respondent, describing the vested tract by metes and bounds, directing the Recorder to index the decree against both parcels, and awarding costs. Claimant does not seek damages for the period of possession."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Notice",
+      "order": 11,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Force Majeure",
+      "order": 12,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 10 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Recording",
+      "order": 13,
+      "text": "This instrument shall be recorded in the land records of Ashbourne County, Northridge, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 10 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Time of the Essence",
+      "order": 14,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Northridge, the period is extended to the next business day."
+    }
+  ]
+}

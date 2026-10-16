@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-FORECL-0014",
+  "case_name": "Cinderfield Realty v. Foxglove Landing",
+  "full_caption": "Cinderfield Realty Trust, Appellant, v. Foxglove Landing Development Partners, L.P., Appellee",
+  "court": "Kestrel District Court of Appeal, Third District",
+  "jurisdiction": "Kestrel",
+  "date": "2018-05-22",
+  "case_type": "foreclosure",
+  "case_type_label": "Foreclosure",
+  "source": "synthetic",
+  "docket_number": "SYN-2018-1661",
+  "property_address": "3125 Kingfisher Drive, Elmsworth, KS",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Cinderfield Realty Trust, as servicer for the holder of the note, commenced this foreclosure against Foxglove Landing Development Partners, L.P. with respect to the property at 3125 Kingfisher Drive, Elmsworth, KS, securing an original principal balance of $200,000."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Post-sale, the purchaser takes subject to any bona fide tenancy of record. A tenant in possession under a lease predating the mortgage is not divested by the sale."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Foxglove Landing Development Partners, L.P. made 13 payments under a trial loan-modification plan and was thereafter denied a permanent modification on the ground of an unverified escrow shortfall of $600."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The statute of limitations on a foreclosure action runs from acceleration, not from the original maturity date. Where an earlier acceleration was withdrawn by dismissal of a prior action, the limitations clock is reset as to installments coming due thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Standing to foreclose requires that the plaintiff hold the note, endorsed in blank or to the plaintiff, at the time the complaint is filed. A later-acquired endorsement does not cure a standing defect existing at filing."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A servicer that accepts payments under a trial plan and then denies permanent modification without the review the plan promises may be estopped from asserting the default those payments were tendered to cure."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Strict compliance with contractual notice conditions is a condition precedent to acceleration. The notice sent to Foxglove Landing Development Partners, L.P. omitted the reinstatement advisory and was therefore ineffective to accelerate the debt."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The allonge produced at trial was undated and was not physically affixed to the note when the original was tendered for inspection. An allonge must be affixed to the instrument to be effective as an endorsement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment of foreclosure is vacated and the cause remanded with directions to dismiss without prejudice for failure to satisfy the notice condition precedent."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — LOSS MITIGATION AND TRIAL PLAN",
+      "order": 10,
+      "text": "Upon receipt of a complete loss-mitigation application more than 21 days before a scheduled sale, Servicer shall evaluate the application for all available alternatives to foreclosure and shall not move for judgment or conduct a sale while the evaluation is pending. Where Borrower makes all payments required by a trial plan, Servicer shall offer a permanent modification on the terms the trial plan describes, and may not deny the modification on a ground that was known and could have been raised before the trial plan was offered."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SALE, DEFICIENCY AND SURPLUS",
+      "order": 11,
+      "text": "Any sale shall be conducted publicly after publication for 4 consecutive weeks. No deficiency judgment shall be entered unless the court finds, after an evidentiary hearing, that the sale price was commercially reasonable in relation to the fair market value of the Property. Any surplus remaining after satisfaction of the debt, costs and junior liens of record shall be paid to Borrower within 45 days of confirmation."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — TENANT PROTECTIONS AFTER SALE",
+      "order": 12,
+      "text": "A purchaser at the sale takes subject to any bona fide tenancy in existence at the time of the notice of sale. The purchaser shall give a bona fide tenant not less than 30 days' written notice to vacate, and a tenant under a bona fide lease may occupy the Property for the remaining term of the lease unless the purchaser will occupy the Property as a primary residence."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Dispute Resolution",
+      "order": 13,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 7 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Time of the Essence",
+      "order": 14,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Kestrel, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Attorney's Fees",
+      "order": 15,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

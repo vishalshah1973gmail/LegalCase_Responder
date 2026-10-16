@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-EASEME-0091",
+  "case_name": "Alderidge v. Lowbridge",
+  "full_caption": "Perrin Alderidge, Appellant, v. Theodora Lowbridge, Appellee",
+  "court": "Calloway District Court of Appeal, Second District",
+  "jurisdiction": "Calloway",
+  "date": "2021-03-28",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-9973",
+  "property_address": "3209 Wicklow Lane, Lindenmere, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 12 feet of the parcel at 3209 Wicklow Lane, Lindenmere, CW, owned by Theodora Lowbridge, in favor of the landlocked rear parcel owned by Perrin Alderidge."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The common grantor conveyed the rear parcel in 2004 without any reservation of a right of way. At that time the rear parcel abutted County Route 12, which was subsequently vacated by the Lindenmere County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "An easement by prescription requires use that is open, notorious, continuous, hostile and under a claim of right for the full statutory period of 21 years. Permissive use, however long continued, never ripens into a prescriptive right."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The evidence showed that Perrin Alderidge and predecessors drove a gravel track across the servient estate from 2004 through 2011, maintained it with periodic grading, and installed a culvert at the drainage swale in 2019."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Theodora Lowbridge."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — TERMINATION AND NON-ABANDONMENT",
+      "order": 10,
+      "text": "This easement terminates only by written release recorded in the land records, by merger of the dominant and servient estates in a single owner, or by a court decree. Non-use, however long continued, shall not constitute abandonment absent a recorded release or an affirmative act by Grantee manifesting an intent permanently to relinquish the right."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Recording",
+      "order": 11,
+      "text": "This instrument shall be recorded in the land records of Lindenmere County, Calloway, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 5 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 12,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Entire Agreement and Riders",
+      "order": 13,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Dispute Resolution",
+      "order": 14,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 5 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

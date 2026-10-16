@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-EASEME-0071",
+  "case_name": "Deepwell Land v. Nettleford",
+  "full_caption": "Deepwell Land & Timber Co., Appellant, v. Isolde Nettleford, Appellee",
+  "court": "Brightwater District Court of Appeal, First District",
+  "jurisdiction": "Brightwater",
+  "date": "2004-02-04",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2004-4754",
+  "property_address": "3812 Pennyroyal Court, Cobbleton, BW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 16 feet of the parcel at 3812 Pennyroyal Court, Cobbleton, BW, owned by Isolde Nettleford, in favor of the landlocked rear parcel owned by Deepwell Land & Timber Co.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "An easement by prescription requires use that is open, notorious, continuous, hostile and under a claim of right for the full statutory period of 21 years. Permissive use, however long continued, never ripens into a prescriptive right."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The common grantor conveyed the rear parcel in 1993 without any reservation of a right of way. At that time the rear parcel abutted Old Quarry Turnpike, which was subsequently vacated by the Cobbleton County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The scope of an easement is fixed by the use that created it. A prescriptive way established by passenger vehicles and light farm equipment does not expand to accommodate commercial haul traffic of the character now proposed by Deepwell Land & Timber Co.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Isolde Nettleford."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — GRANT AND DESCRIPTION OF EASEMENT",
+      "order": 10,
+      "text": "Grantor grants to Grantee, its successors and assigns, a perpetual non-exclusive easement 16 feet in width for ingress, egress and utilities over and across the northerly portion of the Servient Estate, the centerline of which is the existing gravel drive as it presently exists on the ground. This easement is appurtenant to and runs with the Dominant Estate and may not be conveyed separately from it."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — TERMINATION AND NON-ABANDONMENT",
+      "order": 11,
+      "text": "This easement terminates only by written release recorded in the land records, by merger of the dominant and servient estates in a single owner, or by a court decree. Non-use, however long continued, shall not constitute abandonment absent a recorded release or an affirmative act by Grantee manifesting an intent permanently to relinquish the right."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Governing Law",
+      "order": 12,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Brightwater, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Cobbleton County, Brightwater, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Inspection and Right of Entry",
+      "order": 13,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    }
+  ]
+}

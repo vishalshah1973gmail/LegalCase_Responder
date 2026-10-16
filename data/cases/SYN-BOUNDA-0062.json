@@ -1,0 +1,100 @@
+{
+  "case_id": "SYN-BOUNDA-0062",
+  "case_name": "Yarborough v. Cadwallon",
+  "full_caption": "Jasper Yarborough, Appellant, v. Wendell Cadwallon, Appellee",
+  "court": "Thornfield District Court of Appeal, First District",
+  "jurisdiction": "Thornfield",
+  "date": "2016-09-23",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2016-9447",
+  "property_address": "2264 Mill Race Way, Lindenmere, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Ferndale Road. The dispute concerns a strip approximately 25 feet in width lying between the fence line maintained since 2007 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 7 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Wendell Cadwallon had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The fence erected in 2007 was maintained jointly, and both households mowed to their respective sides without objection until Jasper Yarborough obtained the 2018 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 20°56' E to N 55°01' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment quieting title in Jasper Yarborough to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER II",
+      "heading": "RIDER II — SURVEY AND MONUMENTATION",
+      "order": 9,
+      "text": "The agreed line shall be monumented with iron pins set at each angle point and at intervals not exceeding 25 feet, and a plat of the survey shall be filed with the Lindenmere County Recorder. In the event of conflict between this description and the monuments as set, the monuments shall control."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 10,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 11,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Waiver and Course of Dealing",
+      "order": 12,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    }
+  ]
+}

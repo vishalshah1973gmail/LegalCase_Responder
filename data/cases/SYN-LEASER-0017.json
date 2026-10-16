@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-LEASER-0017",
+  "case_name": "Marbury Hollow v. Quarrytown Capital",
+  "full_caption": "Marbury Hollow Homeowners Association, Inc., Appellant, v. Quarrytown Capital Servicing, LLC, Appellee",
+  "court": "Supreme Court of Westmarch",
+  "jurisdiction": "Westmarch",
+  "date": "2022-07-21",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2022-7154",
+  "property_address": "3730 Pennyroyal Court, Ashbourne, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Marbury Hollow Homeowners Association, Inc., as landlord, and Quarrytown Capital Servicing, LLC, as tenant, for 1,100 square feet at 3730 Pennyroyal Court, Ashbourne, WM."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Holdover Rider fixes holdover rent at two (2) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A rider is read as part of the integrated lease. Where a rider and the printed form conflict, the rider controls, because it represents the parties' specific and later-negotiated intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "A landlord may not withhold consent in order to extract a rent increase not bargained for in the lease. The demand for 100 percent of the sublease profits, absent a recapture provision, was unreasonable as a matter of law."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 60 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Judgment for Quarrytown Capital Servicing, LLC on the late-fee and default-interest claim is affirmed; judgment for Marbury Hollow Homeowners Association, Inc. on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — LATE FEES AND DEFAULT INTEREST",
+      "order": 9,
+      "text": "If any installment of Base Rent or Additional Rent is not received by Landlord by the 15th day of the month, Tenant shall pay a late charge equal to 15 percent of the overdue installment. Amounts remaining unpaid more than thirty (30) days after the due date shall thereafter bear interest at 6 percent per annum. The late charge and default interest are alternative and not cumulative remedies for the same delinquent installment; in no event shall Tenant be charged both for the same period of delay."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — ASSIGNMENT, SUBLETTING AND RECAPTURE",
+      "order": 10,
+      "text": "Tenant shall not assign this Lease or sublet all or any part of the Premises without Landlord's prior written consent, which shall not be unreasonably withheld, conditioned or delayed. Landlord's consent shall be deemed reasonable if based on the proposed transferee's financial condition, business reputation, proposed use, or the compatibility of that use with the tenant mix of the Center. Upon request for consent to an assignment of the entire Premises, Landlord may elect within 60 days to recapture the Premises and terminate this Lease. Absent such recapture election, Landlord shall not condition consent upon payment of any portion of the transfer consideration in excess of 100 percent of the profit remaining after Tenant's reasonable transaction costs."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 6",
+      "heading": "RIDER 6 — ESTOPPEL CERTIFICATES AND SUBORDINATION",
+      "order": 11,
+      "text": "Within 60 days after written request, Tenant shall execute and deliver a certificate stating the commencement and expiration dates, the amount of Base Rent, the amounts of any prepaid rent and security deposit, and whether to Tenant's knowledge Landlord is in default. Failure to deliver within that period shall be deemed an admission of the accuracy of the statements contained in the form furnished by Landlord. This Lease is subordinate to any mortgage now or hereafter placed on the Center, provided the mortgagee delivers a commercially reasonable non-disturbance agreement."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 12,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 13,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-BOUNDA-0082",
+  "case_name": "Ellsworth-Vane v. Marbury Hollow",
+  "full_caption": "Ottoline Ellsworth-Vane, Appellant, v. Marbury Hollow Land & Timber Co., Appellee",
+  "court": "Court of Appeals of Thornfield",
+  "jurisdiction": "Thornfield",
+  "date": "2007-08-16",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2007-1845",
+  "property_address": "3856 Kingfisher Drive, Stillwater, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Sycamore Reach. The dispute concerns a strip approximately 16 feet in width lying between the fence line maintained since 2005 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A quiet-title plaintiff must recover on the strength of its own title and not on the weakness of the defendant's. Ottoline Ellsworth-Vane traced an unbroken chain to the 2031 patent and thereby carried that burden as to the residue of the parcel."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 20 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 76°29' E to N 85°59' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The surveyor called by Ottoline Ellsworth-Vane located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Marbury Hollow Land & Timber Co. began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Marbury Hollow Land & Timber Co. had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Where a deed description conflicts with monuments actually set on the ground, the monuments control. Calls in a conveyance are given priority in the order: natural monuments, artificial monuments, courses, distances, and quantity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The fence erected in 2005 was maintained jointly, and both households mowed to their respective sides without objection until Ottoline Ellsworth-Vane obtained the 2015 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment quieting title in Ottoline Ellsworth-Vane to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER IV",
+      "heading": "RIDER IV — ENCROACHMENT LICENSE",
+      "order": 13,
+      "text": "The parties acknowledge that the detached garage encroaches approximately 2.3 feet onto the adjoining parcel. The adjoining owner grants a revocable license permitting the encroachment to remain until the structure is removed, destroyed, or substantially rebuilt, at which time the license terminates automatically and the structure shall be reconstructed wholly within the boundary."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Successors, Assigns and Runs With the Land",
+      "order": 14,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 15,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    }
+  ]
+}

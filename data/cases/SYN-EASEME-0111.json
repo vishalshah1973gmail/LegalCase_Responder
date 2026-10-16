@@ -1,0 +1,128 @@
+{
+  "case_id": "SYN-EASEME-0111",
+  "case_name": "Marbury Hollow v. Saltmarsh Homeowners",
+  "full_caption": "Marbury Hollow Land & Timber Co., Appellant, v. Saltmarsh Homeowners Association, Inc., Appellee",
+  "court": "Westmarch District Court of Appeal, First District",
+  "jurisdiction": "Westmarch",
+  "date": "2013-04-29",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2013-3250",
+  "property_address": "1924 Tanner's Row, Ashbourne, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 30 feet of the parcel at 1924 Tanner's Row, Ashbourne, WM, owned by Saltmarsh Homeowners Association, Inc., in favor of the landlocked rear parcel owned by Marbury Hollow Land & Timber Co.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The servient owner retains the right to make any use of the burdened land that does not unreasonably interfere with the easement. Installation of a gate is permissible provided it is not locked against the dominant owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "An easement by prescription requires use that is open, notorious, continuous, hostile and under a claim of right for the full statutory period of 15 years. Permissive use, however long continued, never ripens into a prescriptive right."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The evidence showed that Marbury Hollow Land & Timber Co. and predecessors drove a gravel track across the servient estate from 1984 through 1994, maintained it with periodic grading, and installed a culvert at the drainage swale in 2005."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The common grantor conveyed the rear parcel in 1984 without any reservation of a right of way. At that time the rear parcel abutted the Wicklow town road, which was subsequently vacated by the Ashbourne County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Saltmarsh Homeowners Association, Inc.."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — GRANT AND DESCRIPTION OF EASEMENT",
+      "order": 11,
+      "text": "Grantor grants to Grantee, its successors and assigns, a perpetual non-exclusive easement 30 feet in width for ingress, egress and utilities over and across the northerly portion of the Servient Estate, the centerline of which is the existing gravel drive as it presently exists on the ground. This easement is appurtenant to and runs with the Dominant Estate and may not be conveyed separately from it."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — TERMINATION AND NON-ABANDONMENT",
+      "order": 12,
+      "text": "This easement terminates only by written release recorded in the land records, by merger of the dominant and servient estates in a single owner, or by a court decree. Non-use, however long continued, shall not constitute abandonment absent a recorded release or an affirmative act by Grantee manifesting an intent permanently to relinquish the right."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 13,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 3 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Dispute Resolution",
+      "order": 14,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 3 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Time of the Essence",
+      "order": 15,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Westmarch, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Severability",
+      "order": 16,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

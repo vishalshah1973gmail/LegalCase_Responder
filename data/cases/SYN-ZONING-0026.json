@@ -1,0 +1,93 @@
+{
+  "case_id": "SYN-ZONING-0026",
+  "case_name": "Applegate Commons v. Kingsmere Capital",
+  "full_caption": "Applegate Commons Municipal Housing Authority, Appellant, v. Kingsmere Capital Servicing, LLC, Appellee",
+  "court": "Court of Appeals of Calloway",
+  "jurisdiction": "Calloway",
+  "date": "2012-01-21",
+  "case_type": "zoning",
+  "case_type_label": "Zoning / Land Use",
+  "source": "synthetic",
+  "docket_number": "SYN-2012-5029",
+  "property_address": "4634 Ferndale Road, Pinecrest, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Applegate Commons Municipal Housing Authority appeals the denial by the Pinecrest County Board of Adjustment of a use variance permitting operation of a microbrewery taproom at 4634 Ferndale Road, Pinecrest, CW, a parcel zoned R-3 single-family residential."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Exhaustion of administrative remedies is a prerequisite to judicial review. A facial constitutional challenge to the ordinance is excepted from that requirement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Hardship must arise from the land itself and not from the owner's personal circumstances or from a self-created condition. Purchase with knowledge of the restriction is a factor but is not, standing alone, disqualifying."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A nonconforming use lawfully existing at the effective date of the ordinance may continue but may not be enlarged, and is lost by abandonment or by discontinuance for the period specified in the ordinance."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "An area variance is governed by a balancing test weighing the benefit to the applicant against the detriment to the health, safety and welfare of the neighborhood, and does not require the showing of hardship applicable to use variances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The board's findings must be sufficient to permit meaningful review. Conclusory recitals tracking the language of the ordinance, without reference to record evidence, require remand."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Vested rights against a subsequent ordinance arise where the developer, in good-faith reliance on a validly issued permit, has made substantial expenditures. Applegate Commons Municipal Housing Authority expended $445,000 on site work before the moratorium was adopted."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The denial is vacated and the matter remanded to the Board for findings addressing the drainage easement and the shape of the parcel."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — APPEAL AND EXHAUSTION",
+      "order": 9,
+      "text": "Any person aggrieved may appeal to the Board within 90 days of the decision, and thereafter to the Calloway courts within thirty days of the Board's written decision. Administrative remedies must be exhausted before judicial review is sought, except that a facial challenge to the constitutionality of the ordinance may be brought directly."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 10,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 11,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

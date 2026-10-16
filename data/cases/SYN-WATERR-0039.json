@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-WATERR-0039",
+  "case_name": "Amberline Holdings v. Foxglove Landing",
+  "full_caption": "Amberline Holdings, LLC, Appellant, v. Foxglove Landing Land & Timber Co., Appellee",
+  "court": "Supreme Court of Thornfield",
+  "jurisdiction": "Thornfield",
+  "date": "2016-06-17",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2016-9315",
+  "property_address": "4723 Bellweather Street, Cobbleton, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Amberline Holdings, LLC and Foxglove Landing Land & Timber Co. own riparian tracts along the Brightwater Branch within Cobbleton County. The dispute concerns Foxglove Landing Land & Timber Co.'s diversion of approximately 950 gallons per minute for irrigation of 17.3 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A use that wholly deprives a downstream riparian of water for domestic purposes is unreasonable as a matter of law, without regard to the economic value of the upstream use."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 1995 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The accommodation doctrine required Foxglove Landing Land & Timber Co. to consider directional drilling from an off-site pad before siting the wellpad within the irrigated circle. Failure even to evaluate the alternative defeats the claim of reasonable necessity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The public trust doctrine reserves to the State title to the beds of navigable waters. Navigability for title purposes is determined by susceptibility to commercial navigation at the date of statehood."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The 56 days of well failure experienced by Amberline Holdings, LLC coincided with the operation of Foxglove Landing Land & Timber Co.'s high-capacity irrigation well 16 feet from the shared aquifer boundary. Causation was established by drawdown modeling."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The injunction is modified to permit diversion not exceeding 100 gallons per minute between June and September, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — DIVERSION LIMITS AND SEASONAL SCHEDULE",
+      "order": 11,
+      "text": "The Upper Owner may divert from the Brightwater Branch for irrigation not more than 950 gallons per minute, and not more than an aggregate of 840 acre-feet in any calendar year. Between June and September the permitted rate is reduced to 100 gallons per minute. No diversion is permitted whenever the gauged flow at the Cobbleton County station falls below the minimum bypass flow set out in Rider B."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SEVERED MINERAL ESTATE AND SURFACE ACCOMMODATION",
+      "order": 12,
+      "text": "The owner of the severed mineral estate may use so much of the surface as is reasonably necessary for exploration and production, and shall accommodate existing surface uses where a reasonable alternative means of extraction exists. Before siting any wellpad within an irrigated area, the operator shall evaluate in writing off-site and directional alternatives and shall furnish that evaluation to the surface owner not less than 45 days before entry."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Successors, Assigns and Runs With the Land",
+      "order": 13,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 14,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

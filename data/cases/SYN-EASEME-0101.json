@@ -1,0 +1,135 @@
+{
+  "case_id": "SYN-EASEME-0101",
+  "case_name": "Kettleburn v. Saltmarsh Property",
+  "full_caption": "Rosalind Kettleburn, Appellant, v. Saltmarsh Property Group, Inc., Appellee",
+  "court": "Sable District Court of Appeal, Second District",
+  "jurisdiction": "Sable",
+  "date": "2023-09-27",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2023-8390",
+  "property_address": "4725 Mill Race Way, Grayrock, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 40 feet of the parcel at 4725 Mill Race Way, Grayrock, SB, owned by Saltmarsh Property Group, Inc., in favor of the landlocked rear parcel owned by Rosalind Kettleburn."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The common grantor conveyed the rear parcel in 1983 without any reservation of a right of way. At that time the rear parcel abutted the abandoned rail grade, which was subsequently vacated by the Grayrock County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "An easement by prescription requires use that is open, notorious, continuous, hostile and under a claim of right for the full statutory period of 21 years. Permissive use, however long continued, never ripens into a prescriptive right."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The scope of an easement is fixed by the use that created it. A prescriptive way established by passenger vehicles and light farm equipment does not expand to accommodate commercial haul traffic of the character now proposed by Rosalind Kettleburn."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The evidence showed that Rosalind Kettleburn and predecessors drove a gravel track across the servient estate from 1983 through 1988, maintained it with periodic grading, and installed a culvert at the drainage swale in 2007."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The servient owner retains the right to make any use of the burdened land that does not unreasonably interfere with the easement. Installation of a gate is permissible provided it is not locked against the dominant owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Saltmarsh Property Group, Inc.."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — GRANT AND DESCRIPTION OF EASEMENT",
+      "order": 13,
+      "text": "Grantor grants to Grantee, its successors and assigns, a perpetual non-exclusive easement 40 feet in width for ingress, egress and utilities over and across the northerly portion of the Servient Estate, the centerline of which is the existing gravel drive as it presently exists on the ground. This easement is appurtenant to and runs with the Dominant Estate and may not be conveyed separately from it."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Interpretation and Construction Against Drafter",
+      "order": 14,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Counterparts and Electronic Signature",
+      "order": 15,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Sable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Severability",
+      "order": 16,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Insurance",
+      "order": 17,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $1,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    }
+  ]
+}

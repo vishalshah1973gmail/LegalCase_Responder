@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-BOUNDA-0002",
+  "case_name": "Havershaw v. Fenwicke",
+  "full_caption": "Theodora Havershaw, Appellant, v. Theodora Fenwicke, Appellee",
+  "court": "Supreme Court of Sable",
+  "jurisdiction": "Sable",
+  "date": "2021-02-07",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-3594",
+  "property_address": "2122 Bellweather Street, Elmsworth, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Ferndale Road. The dispute concerns a strip approximately 40 feet in width lying between the fence line maintained since 1996 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Theodora Fenwicke had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The fence erected in 1996 was maintained jointly, and both households mowed to their respective sides without objection until Theodora Havershaw obtained the 2008 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 15 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Where a deed description conflicts with monuments actually set on the ground, the monuments control. Calls in a conveyance are given priority in the order: natural monuments, artificial monuments, courses, distances, and quantity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 17°24' E to N 86°39' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The surveyor called by Theodora Havershaw located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Theodora Fenwicke began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The judgment quieting title in Theodora Havershaw to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER I",
+      "heading": "RIDER I — BOUNDARY LINE AGREEMENT",
+      "order": 12,
+      "text": "The parties, being uncertain as to the true location of their common boundary, agree that the line established by the existing fence, as located and monumented by the survey of record dated April 23, 2020, is and shall be the boundary between their respective parcels for all purposes. Each party quitclaims to the other all right, title and interest lying on the other's side of the agreed line. This agreement shall be recorded and shall bind the parties' successors."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 13,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Sable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Notice",
+      "order": 14,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Inspection and Right of Entry",
+      "order": 15,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    }
+  ]
+}

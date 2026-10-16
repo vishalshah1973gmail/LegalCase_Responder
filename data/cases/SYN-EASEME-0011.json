@@ -1,0 +1,100 @@
+{
+  "case_id": "SYN-EASEME-0011",
+  "case_name": "Halloway Bend v. Two Rivers",
+  "full_caption": "Halloway Bend Development Partners, L.P., Appellant, v. Two Rivers Holdings, LLC, Appellee",
+  "court": "Supreme Court of Thornfield",
+  "jurisdiction": "Thornfield",
+  "date": "2018-07-24",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2018-2792",
+  "property_address": "1946 Pennyroyal Court, Ashbourne, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 16 feet of the parcel at 1946 Pennyroyal Court, Ashbourne, TF, owned by Two Rivers Holdings, LLC, in favor of the landlocked rear parcel owned by Halloway Bend Development Partners, L.P.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The evidence showed that Halloway Bend Development Partners, L.P. and predecessors drove a gravel track across the servient estate from 2003 through 2011, maintained it with periodic grading, and installed a culvert at the drainage swale in 2021."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Abandonment requires more than mere non-use. There must be an affirmative act evincing an intent to relinquish the right permanently. The fifteen years of non-use shown here, standing alone, does not extinguish the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The scope of an easement is fixed by the use that created it. A prescriptive way established by passenger vehicles and light farm equipment does not expand to accommodate commercial haul traffic of the character now proposed by Halloway Bend Development Partners, L.P.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The servient owner retains the right to make any use of the burdened land that does not unreasonably interfere with the easement. Installation of a gate is permissible provided it is not locked against the dominant owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Two Rivers Holdings, LLC."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — GRANT AND DESCRIPTION OF EASEMENT",
+      "order": 9,
+      "text": "Grantor grants to Grantee, its successors and assigns, a perpetual non-exclusive easement 16 feet in width for ingress, egress and utilities over and across the northerly portion of the Servient Estate, the centerline of which is the existing gravel drive as it presently exists on the ground. This easement is appurtenant to and runs with the Dominant Estate and may not be conveyed separately from it."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION",
+      "order": 10,
+      "text": "Grantor may relocate the easement at Grantor's sole cost upon 90 days' written notice, provided the relocated way is of equal width and grade, provides equal utility and access, and does not increase the distance of travel by more than 3 percent. Grantee's consent shall not be unreasonably withheld."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Insurance",
+      "order": 11,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $500,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 12,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

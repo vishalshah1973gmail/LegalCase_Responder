@@ -1,0 +1,135 @@
+{
+  "case_id": "SYN-ZONING-0036",
+  "case_name": "Kingsmere Realty v. Marbury Hollow",
+  "full_caption": "Kingsmere Realty Trust, Appellant, v. Marbury Hollow Capital Servicing, LLC, Appellee",
+  "court": "Thornfield District Court of Appeal, Fourth District",
+  "jurisdiction": "Thornfield",
+  "date": "2017-06-08",
+  "case_type": "zoning",
+  "case_type_label": "Zoning / Land Use",
+  "source": "synthetic",
+  "docket_number": "SYN-2017-3216",
+  "property_address": "4148 Old Quarry Turnpike, Lindenmere, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Kingsmere Realty Trust appeals the denial by the Lindenmere County Board of Adjustment of a use variance permitting operation of a microbrewery taproom at 4148 Old Quarry Turnpike, Lindenmere, TF, a parcel zoned R-3 single-family residential."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A nonconforming use lawfully existing at the effective date of the ordinance may continue but may not be enlarged, and is lost by abandonment or by discontinuance for the period specified in the ordinance."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Vested rights against a subsequent ordinance arise where the developer, in good-faith reliance on a validly issued permit, has made substantial expenditures. Kingsmere Realty Trust expended $705,000 on site work before the moratorium was adopted."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The parcel is 300 square feet, irregular in shape, and burdened by a drainage easement across 3 percent of its buildable area. Those are conditions of the land and not of the owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Discontinuance for 24 months is presumed abandonment under Section 3.9 of the ordinance. The presumption is rebutted by proof of an intent to resume coupled with overt acts consistent with that intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A use variance requires proof of unnecessary hardship: that the property cannot yield a reasonable return in any permitted use, that the hardship is unique to the parcel, and that the variance will not alter the essential character of the locality."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Spot zoning is the singling out of a small parcel for treatment differing from that of surrounding property, for the benefit of the owner and to the detriment of the comprehensive plan. The rezoning here served a plan objective and is not spot zoning."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Hardship must arise from the land itself and not from the owner's personal circumstances or from a self-created condition. Purchase with knowledge of the restriction is a factor but is not, standing alone, disqualifying."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Exhaustion of administrative remedies is a prerequisite to judicial review. A facial constitutional challenge to the ordinance is excepted from that requirement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "An area variance is governed by a balancing test weighing the benefit to the applicant against the detriment to the health, safety and welfare of the neighborhood, and does not require the showing of hardship applicable to use variances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The board's findings must be sufficient to permit meaningful review. Conclusory recitals tracking the language of the ordinance, without reference to record evidence, require remand."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The denial is vacated and the matter remanded to the Board for findings addressing the drainage easement and the shape of the parcel."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — CONDITIONS OF APPROVAL",
+      "order": 13,
+      "text": "Any approval is subject to the following conditions, each of which runs with the land: hours of operation limited to 8:00 a.m. to 6:00 p.m.; off-street parking of not fewer than 48 spaces; a landscaped buffer of not less than 50 feet along every boundary abutting a residential district; exterior lighting shielded and directed downward; and no exterior signage exceeding 12 square feet. Violation of any condition voids the approval after notice and an opportunity to cure."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — VESTED RIGHTS AND MORATORIUM",
+      "order": 14,
+      "text": "A permittee who, in good-faith reliance on a validly issued permit, has incurred substantial expenditures or substantially changed position acquires a vested right to complete the development in accordance with the permit, notwithstanding any subsequently adopted ordinance or moratorium. Expenditures for architectural, engineering and permitting services alone are not 'substantial' for purposes of this Rider unless they exceed 3 percent of the total project cost."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — APPEAL AND EXHAUSTION",
+      "order": 15,
+      "text": "Any person aggrieved may appeal to the Board within 90 days of the decision, and thereafter to the Thornfield courts within thirty days of the Board's written decision. Administrative remedies must be exhausted before judicial review is sought, except that a facial challenge to the constitutionality of the ordinance may be brought directly."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Indemnity",
+      "order": 16,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Counterparts and Electronic Signature",
+      "order": 17,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Thornfield."
+    }
+  ]
+}

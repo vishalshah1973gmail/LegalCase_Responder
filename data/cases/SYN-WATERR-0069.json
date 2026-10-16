@@ -1,0 +1,93 @@
+{
+  "case_id": "SYN-WATERR-0069",
+  "case_name": "Verdant Acre v. Quillon",
+  "full_caption": "Verdant Acre Municipal Housing Authority, Appellant, v. Perrin Quillon, Appellee",
+  "court": "Northridge Land and Property Court, Pinecrest Division",
+  "jurisdiction": "Northridge",
+  "date": "2017-08-20",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2017-1386",
+  "property_address": "1404 Bellweather Street, Pinecrest, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Verdant Acre Municipal Housing Authority and Perrin Quillon own riparian tracts along the Brightwater Branch within Pinecrest County. The dispute concerns Perrin Quillon's diversion of approximately 550 gallons per minute for irrigation of 2.7 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 1977 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The 27 days of well failure experienced by Verdant Acre Municipal Housing Authority coincided with the operation of Perrin Quillon's high-capacity irrigation well 30 feet from the shared aquifer boundary. Causation was established by drawdown modeling."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The accommodation doctrine required Perrin Quillon to consider directional drilling from an off-site pad before siting the wellpad within the irrigated circle. Failure even to evaluate the alternative defeats the claim of reasonable necessity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The injunction is modified to permit diversion not exceeding 200 gallons per minute between January and July, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — GROUNDWATER AND WELL INTERFERENCE",
+      "order": 9,
+      "text": "No high-capacity well shall be completed within 30 feet of an existing domestic well without a drawdown analysis furnished to the affected owner. If operation of a high-capacity well causes an existing domestic well to fail or its yield to fall below five gallons per minute, the operator shall, at its expense, deepen or replace the affected well or provide an equivalent permanent supply. Withdrawal for export off the overlying tract is prohibited where it injures a neighboring overlying user."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Counterparts and Electronic Signature",
+      "order": 10,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Northridge."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Time of the Essence",
+      "order": 11,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Northridge, the period is extended to the next business day."
+    }
+  ]
+}

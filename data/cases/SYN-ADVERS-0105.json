@@ -1,0 +1,128 @@
+{
+  "case_id": "SYN-ADVERS-0105",
+  "case_name": "Larkspur Hill v. Kingsmere Capital",
+  "full_caption": "Larkspur Hill Capital Servicing, LLC, Appellant, v. Kingsmere Capital Servicing, LLC, Appellee",
+  "court": "Thornfield Land and Property Court, Grayrock Division",
+  "jurisdiction": "Thornfield",
+  "date": "2014-06-16",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2014-4490",
+  "property_address": "3102 Bellweather Street, Grayrock, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Larkspur Hill Capital Servicing, LLC claims title by adverse possession to a 2.7-acre wooded tract adjoining 3102 Bellweather Street, Grayrock, TF, of which Kingsmere Capital Servicing, LLC is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 50-foot strip within the platted right of way is therefore excluded from any judgment in Larkspur Hill Capital Servicing, LLC's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Tacking is permitted between successive possessors in privity. Larkspur Hill Capital Servicing, LLC may tack the 10 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Adverse possession requires possession that is actual, open and notorious, exclusive, hostile, and continuous for the statutory period of 20 years. Each element must be established by clear and convincing evidence."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Payment of property taxes is not an independent element in this jurisdiction but is evidence bearing on the notoriety of the claim. Larkspur Hill Capital Servicing, LLC paid taxes assessed against the tract for 13 of the 20 years in question."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Hostility does not require ill will. It requires only that the possession be without the record owner's permission and inconsistent with the owner's title. A claimant's mistaken belief as to the true line does not defeat hostility in this State."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The trial court found the elements satisfied as to 11.4 acres and not satisfied as to the remainder, which lay beyond any fence or posted line. That allocation is not clearly erroneous."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Larkspur Hill Capital Servicing, LLC posted the tract against trespass in 1995, cut and sold standing timber in 2007 and 2021, and maintained a hunting camp on the northeast quarter continuously thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Continuity is broken by an entry of the record owner made with intent to reclaim possession. The single survey visit by Kingsmere Capital Servicing, LLC's agent in 2023, unaccompanied by any assertion of possession, did not interrupt the running of the statute."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Possession is 'actual' where the claimant uses the land as an ordinary owner of similar land would use it. For wooded acreage, selective timbering, posting, and seasonal recreational use may suffice where cultivation would not be expected."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit C."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — STATEMENT OF CLAIM AND DESCRIPTION",
+      "order": 12,
+      "text": "Claimant asserts title by adverse possession to a tract of 2.7 acres more particularly described in the surveyor's Exhibit C, being that portion of the record parcel lying east of the posted line and north of the old rail grade, and claims the same in fee simple absolute as against all persons."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — EXCLUSIONS FROM CLAIM",
+      "order": 13,
+      "text": "This claim expressly excludes: (a) any land held by the municipality or the State for a public purpose, including the 50-foot platted right of way; (b) any land subject to a recorded easement, as to which Claimant asserts no interest inconsistent with the easement; and (c) any subsurface mineral estate previously severed of record."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 3 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Indemnity",
+      "order": 15,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Insurance",
+      "order": 16,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $1,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-BOUNDA-0052",
+  "case_name": "Kingsmere Holdings v. Saltmarsh Homeowners",
+  "full_caption": "Kingsmere Holdings, LLC, Appellant, v. Saltmarsh Homeowners Association, Inc., Appellee",
+  "court": "Supreme Court of Sable",
+  "jurisdiction": "Sable",
+  "date": "2021-09-24",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-7153",
+  "property_address": "2908 Pennyroyal Court, Windmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Sycamore Reach. The dispute concerns a strip approximately 30 feet in width lying between the fence line maintained since 2001 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Where a deed description conflicts with monuments actually set on the ground, the monuments control. Calls in a conveyance are given priority in the order: natural monuments, artificial monuments, courses, distances, and quantity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Saltmarsh Homeowners Association, Inc. had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The surveyor called by Kingsmere Holdings, LLC located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Saltmarsh Homeowners Association, Inc. began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "A quiet-title plaintiff must recover on the strength of its own title and not on the weakness of the defendant's. Kingsmere Holdings, LLC traced an unbroken chain to the 2025 patent and thereby carried that burden as to the residue of the parcel."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 56°46' E to N 81°34' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment quieting title in Kingsmere Holdings, LLC to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER V",
+      "heading": "RIDER V — MUTUAL RELEASE AND QUIET ENJOYMENT",
+      "order": 11,
+      "text": "Each party releases the other from all claims for trespass, ejectment, or damage to the disputed strip arising before the date of this agreement, and covenants not to disturb the other's quiet enjoyment of the land lying on that party's side of the agreed line."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Severability",
+      "order": 12,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Recording",
+      "order": 13,
+      "text": "This instrument shall be recorded in the land records of Windmere County, Sable, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 5 days of recording."
+    }
+  ]
+}

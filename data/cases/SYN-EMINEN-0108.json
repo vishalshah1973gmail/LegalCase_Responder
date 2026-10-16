@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-EMINEN-0108",
+  "case_name": "Verdant Acre v. Stroudwick",
+  "full_caption": "Verdant Acre Property Group, Inc., Appellant, v. Marisol Stroudwick, Appellee",
+  "court": "Sable Land and Property Court, Rooksbury Division",
+  "jurisdiction": "Sable",
+  "date": "2021-05-27",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2021-2302",
+  "property_address": "3379 Kingfisher Drive, Rooksbury, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Rooksbury County Redevelopment Authority condemned 5.2 acres owned by Marisol Stroudwick at 3379 Kingfisher Drive, Rooksbury, SB for construction of a county recycling transfer station. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Evidence of the price paid by the condemnor for neighboring parcels is generally inadmissible, because such sales are made under the shadow of the condemnation power and are not free-market transactions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Public use is satisfied where the taking serves a legitimate public purpose; the transfer of the condemned land to a private developer under an enforceable redevelopment agreement does not defeat that purpose under this State's constitution."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A taking may be effected without formal proceedings where governmental action substantially deprives the owner of the beneficial use of the land. The 9-month closure of the only access drive states a claim for inverse condemnation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Business losses are not compensable as such. Loss of goodwill is recoverable only where a statute so provides; this State's statute permits recovery of relocation expenses of $440,000 but not lost profits."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The 'scope of the project' rule excludes from the valuation any increase or decrease in value attributable to the project itself, including value changes flowing from the announcement of the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The trial court excluded testimony valuing the parcel as multifamily residential land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION AND BUSINESS LOSSES",
+      "order": 11,
+      "text": "The Owner is entitled to actual and reasonable moving expenses, expenses of searching for a replacement site not exceeding $440,000, and reestablishment expenses. Loss of business profits and loss of goodwill are not compensable except to the extent expressly provided by statute. Payment of relocation benefits is not an offset against just compensation."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — INTEREST, POSSESSION AND ABANDONMENT",
+      "order": 12,
+      "text": "Interest at 8 percent per annum accrues on the difference between the deposit and the final award from the date of taking to the date of payment, as a constitutional component of just compensation. The Condemnor may take possession upon deposit. If the Condemnor abandons the taking before final judgment, it shall pay the Owner's reasonable costs, appraisal fees and attorney's fees actually incurred."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Governing Law",
+      "order": 13,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Sable, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Rooksbury County, Sable, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Dispute Resolution",
+      "order": 14,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 3 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Successors, Assigns and Runs With the Land",
+      "order": 15,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    }
+  ]
+}

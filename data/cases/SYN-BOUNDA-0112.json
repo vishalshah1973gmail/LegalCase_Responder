@@ -1,0 +1,142 @@
+{
+  "case_id": "SYN-BOUNDA-0112",
+  "case_name": "Foxglove Landing v. Prendergast",
+  "full_caption": "Foxglove Landing Land & Timber Co., Appellant, v. Verity Prendergast, Appellee",
+  "court": "Fairhollow District Court of Appeal, Third District",
+  "jurisdiction": "Fairhollow",
+  "date": "2020-02-20",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2020-4183",
+  "property_address": "3484 Old Quarry Turnpike, Ashbourne, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Tanner's Row. The dispute concerns a strip approximately 20 feet in width lying between the fence line maintained since 1980 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Where a deed description conflicts with monuments actually set on the ground, the monuments control. Calls in a conveyance are given priority in the order: natural monuments, artificial monuments, courses, distances, and quantity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The fence erected in 1980 was maintained jointly, and both households mowed to their respective sides without objection until Foxglove Landing Land & Timber Co. obtained the 1988 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 10 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A quiet-title plaintiff must recover on the strength of its own title and not on the weakness of the defendant's. Foxglove Landing Land & Timber Co. traced an unbroken chain to the 2001 patent and thereby carried that burden as to the residue of the parcel."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Verity Prendergast had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The surveyor called by Foxglove Landing Land & Timber Co. located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Verity Prendergast began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 83°06' E to N 20°30' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment quieting title in Foxglove Landing Land & Timber Co. to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER I",
+      "heading": "RIDER I — BOUNDARY LINE AGREEMENT",
+      "order": 13,
+      "text": "The parties, being uncertain as to the true location of their common boundary, agree that the line established by the existing fence, as located and monumented by the survey of record dated September 10, 1998, is and shall be the boundary between their respective parcels for all purposes. Each party quitclaims to the other all right, title and interest lying on the other's side of the agreed line. This agreement shall be recorded and shall bind the parties' successors."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER II",
+      "heading": "RIDER II — SURVEY AND MONUMENTATION",
+      "order": 14,
+      "text": "The agreed line shall be monumented with iron pins set at each angle point and at intervals not exceeding 20 feet, and a plat of the survey shall be filed with the Ashbourne County Recorder. In the event of conflict between this description and the monuments as set, the monuments shall control."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER III",
+      "heading": "RIDER III — TITLE WARRANTIES AND EXCEPTIONS",
+      "order": 15,
+      "text": "The conveyance is made subject to: (a) all easements, restrictions and reservations of record; (b) the rights of parties in possession as disclosed by an accurate survey; (c) real property taxes for the current year, prorated as of closing; and (d) the encroachment of the board fence across the common line as shown on the survey. Grantor's warranty of title excepts each of the foregoing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Notice",
+      "order": 16,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 17,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Recording",
+      "order": 18,
+      "text": "This instrument shall be recorded in the land records of Ashbourne County, Fairhollow, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 7 days of recording."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-LEASER-0117",
+  "case_name": "Ellsworth-Vane v. Stonebrook Capital",
+  "full_caption": "Evanthe Ellsworth-Vane, Appellant, v. Stonebrook Capital Servicing, LLC, Appellee",
+  "court": "Court of Appeals of Fairhollow",
+  "jurisdiction": "Fairhollow",
+  "date": "2025-04-06",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2025-4625",
+  "property_address": "2561 Sycamore Reach, Windmere, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Evanthe Ellsworth-Vane, as landlord, and Stonebrook Capital Servicing, LLC, as tenant, for 480 square feet at 2561 Sycamore Reach, Windmere, FH."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 30 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The Percentage Rent Rider obligates Stonebrook Capital Servicing, LLC to pay 6 percent of annual gross sales in excess of a breakpoint of $400,000, with 'gross sales' defined to exclude returns, sales taxes collected, and inter-store transfers."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The Holdover Rider fixes holdover rent at two (2) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Judgment for Stonebrook Capital Servicing, LLC on the late-fee and default-interest claim is affirmed; judgment for Evanthe Ellsworth-Vane on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — LATE FEES AND DEFAULT INTEREST",
+      "order": 9,
+      "text": "If any installment of Base Rent or Additional Rent is not received by Landlord by the 3th day of the month, Tenant shall pay a late charge equal to 5 percent of the overdue installment. Amounts remaining unpaid more than thirty (30) days after the due date shall thereafter bear interest at 12 percent per annum. The late charge and default interest are alternative and not cumulative remedies for the same delinquent installment; in no event shall Tenant be charged both for the same period of delay."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — PERCENTAGE RENT",
+      "order": 10,
+      "text": "In addition to Base Rent, Tenant shall pay 6 percent of Gross Sales in each Lease Year in excess of a breakpoint of $400,000. 'Gross Sales' means all receipts from business conducted at, from, or fulfilled out of the Premises, whether for cash or credit, and expressly includes internet and telephone orders fulfilled from inventory located at the Premises, and expressly excludes: returns and allowances actually credited; sales, excise and similar taxes collected and remitted; transfers of merchandise to other stores of Tenant not made to avoid percentage rent; and receipts from vending machines maintained for employees. Tenant shall deliver a statement of Gross Sales within 21 days after each Lease Year, and Landlord may audit not more than once per Lease Year."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — CONTINUOUS OPERATION AND GOING DARK",
+      "order": 11,
+      "text": "Tenant shall continuously operate the Premises under its trade name during the hours the Center is open. If Tenant ceases operations for more than 30 consecutive days other than for remodeling, casualty, or force majeure, Landlord's sole remedies shall be (a) to collect substitute rent equal to two (2) times Base Rent for each month of closure, and (b) to terminate this Lease on thirty days' notice. The parties agree that these remedies are adequate and that Landlord shall not be entitled to specific performance of this Rider."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Successors, Assigns and Runs With the Land",
+      "order": 12,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Entire Agreement and Riders",
+      "order": 13,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 3 days and resumes performance as promptly as practicable."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "case_id": "SYN-ADVERS-0055",
+  "case_name": "Havershaw v. Fenwicke",
+  "full_caption": "Cordelia Havershaw, Appellant, v. Ulric Fenwicke, Appellee",
+  "court": "Sable Land and Property Court, Lindenmere Division",
+  "jurisdiction": "Sable",
+  "date": "2011-04-30",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-1514",
+  "property_address": "3314 Pennyroyal Court, Lindenmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Cordelia Havershaw claims title by adverse possession to a 8.9-acre wooded tract adjoining 3314 Pennyroyal Court, Lindenmere, SB, of which Ulric Fenwicke is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Payment of property taxes is not an independent element in this jurisdiction but is evidence bearing on the notoriety of the claim. Cordelia Havershaw paid taxes assessed against the tract for 13 of the 10 years in question."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Tacking is permitted between successive possessors in privity. Cordelia Havershaw may tack the 8 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The trial court found the elements satisfied as to 3.1 acres and not satisfied as to the remainder, which lay beyond any fence or posted line. That allocation is not clearly erroneous."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Hostility does not require ill will. It requires only that the possession be without the record owner's permission and inconsistent with the owner's title. A claimant's mistaken belief as to the true line does not defeat hostility in this State."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 50-foot strip within the platted right of way is therefore excluded from any judgment in Cordelia Havershaw's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Continuity is broken by an entry of the record owner made with intent to reclaim possession. The single survey visit by Ulric Fenwicke's agent in 2011, unaccompanied by any assertion of possession, did not interrupt the running of the statute."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Cordelia Havershaw posted the tract against trespass in 1980, cut and sold standing timber in 1989 and 1995, and maintained a hunting camp on the northeast quarter continuously thereafter."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit D-1."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — ACTS OF POSSESSION RELIED UPON",
+      "order": 10,
+      "text": "Claimant relies upon the following acts, each continuing from the date shown through the date of filing: posting of the perimeter against trespass beginning in 1980; commercial timber harvest in 1989 and 1995; construction and continuous seasonal use of a hunting camp; annual maintenance of the interior access track; and payment of the real property taxes assessed against the tract for 13 of the 10 years preceding this claim."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 11,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Time of the Essence",
+      "order": 12,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Sable, the period is extended to the next business day."
+    }
+  ]
+}

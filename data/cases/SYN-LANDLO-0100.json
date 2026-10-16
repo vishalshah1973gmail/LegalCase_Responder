@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-LANDLO-0100",
+  "case_name": "Thackeray-Bell v. Cinderfield Development",
+  "full_caption": "Nikolai Thackeray-Bell, Appellant, v. Cinderfield Development Partners, L.P., Appellee",
+  "court": "Thornfield Superior Court, Cobbleton County",
+  "jurisdiction": "Thornfield",
+  "date": "2010-03-23",
+  "case_type": "landlord_tenant",
+  "case_type_label": "Landlord-Tenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2010-9315",
+  "property_address": "3026 Pennyroyal Court, Cobbleton, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Appellant Nikolai Thackeray-Bell is the record owner of the residential building located at 3026 Pennyroyal Court, Cobbleton, TF, a 8-unit structure operated as rental housing since 2003. Appellee Cinderfield Development Partners, L.P. occupied Unit 4B under a written lease dated June 5, 2033."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A late fee is enforceable only where it bears a reasonable relationship to the administrative cost actually incurred by the landlord in processing a delinquent payment. A charge of $50 against a monthly obligation of $2,250 exceeds that relationship and is unenforceable to the extent it exceeds five percent of the installment."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The lease provided for monthly rent of $2,250, due on the first day of each month, with a late charge of $50 assessed on any installment remaining unpaid after the 7th day of the month. The trial court found that this charge operated as a penalty rather than as liquidated damages."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The record establishes that Nikolai Thackeray-Bell received written notice of the heating defect on July 6, 2036 and did not dispatch a repair contractor until December 4, 2029, an interval of 45 days. During that interval overnight interior temperatures fell below fifty-five degrees on at least eleven occasions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The security deposit of $2,300 was not returned within 30 days of surrender, nor was an itemized statement of deductions furnished. The statutory consequence is forfeiture of the landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Nikolai Thackeray-Bell served a notice to quit on November 22, 2036. The notice recited the ground of non-payment but omitted the amount claimed to be due. A notice to quit that fails to state the sum demanded does not commence the statutory cure period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Cinderfield Development Partners, L.P. withheld rent for the months of January and October of 2016, asserting that the premises were untenantable by reason of a persistent failure of the heating system and recurring water intrusion at the north wall of the unit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A tenant electing to withhold rent under the repair-and-deduct statute must (1) give written notice of the defect, (2) allow a reasonable time for cure, and (3) deposit the withheld sums with the clerk of court or into a segregated account. Cinderfield Development Partners, L.P. satisfied the first two requirements but did not deposit the withheld rent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "We affirm in part and reverse in part. The judgment of possession is vacated; the money judgment is remanded for recalculation consistent with the late-fee holding set out above."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER B",
+      "heading": "RIDER B — HABITABILITY, REPAIRS AND ACCESS",
+      "order": 10,
+      "text": "Landlord shall maintain the heating, plumbing, electrical and structural elements of the Premises in good and safe working order. Tenant shall give Landlord written notice of any condition requiring repair. Landlord shall commence a repair affecting heat, hot water, or sanitation within twenty-four (24) hours of notice and all other repairs within 45 days. If Landlord fails to commence within those periods, Tenant may, after a second written notice, cause the repair to be made and deduct the reasonable cost, not exceeding one month's rent in any twelve-month period, from the next installment. Nothing in this Rider waives the implied warranty of habitability."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — SECURITY DEPOSIT",
+      "order": 11,
+      "text": "Landlord holds the sum of $2,300 as security for Tenant's performance. The deposit shall be held in a segregated interest-bearing account at a federally insured institution located within this State. Within 30 days after surrender of the Premises, Landlord shall return the deposit together with accrued interest, less any lawful deductions, accompanied by an itemized written statement identifying each deduction and attaching supporting invoices. Failure to furnish the itemized statement within that period forfeits Landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Indemnity",
+      "order": 12,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 13,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Force Majeure",
+      "order": 14,
+      "text": "Neither party shall be liable for a failure of performance, other than an obligation to pay money, caused by an act of God, flood, fire, civil disturbance, governmental order, epidemic, or other cause beyond that party's reasonable control, provided the affected party gives notice within 7 days and resumes performance as promptly as practicable."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Severability",
+      "order": 15,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}

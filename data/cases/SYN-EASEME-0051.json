@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-EASEME-0051",
+  "case_name": "Oakhampton v. Stonebrook Land",
+  "full_caption": "Perrin Oakhampton, Appellant, v. Stonebrook Land & Timber Co., Appellee",
+  "court": "Sable Land and Property Court, Windmere Division",
+  "jurisdiction": "Sable",
+  "date": "2010-07-24",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2010-4931",
+  "property_address": "4057 Old Quarry Turnpike, Windmere, SB",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 50 feet of the parcel at 4057 Old Quarry Turnpike, Windmere, SB, owned by Stonebrook Land & Timber Co., in favor of the landlocked rear parcel owned by Perrin Oakhampton."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The servient owner retains the right to make any use of the burdened land that does not unreasonably interfere with the easement. Installation of a gate is permissible provided it is not locked against the dominant owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The evidence showed that Perrin Oakhampton and predecessors drove a gravel track across the servient estate from 1980 through 1991, maintained it with periodic grading, and installed a culvert at the drainage swale in 2001."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "An easement by prescription requires use that is open, notorious, continuous, hostile and under a claim of right for the full statutory period of 15 years. Permissive use, however long continued, never ripens into a prescriptive right."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The scope of an easement is fixed by the use that created it. A prescriptive way established by passenger vehicles and light farm equipment does not expand to accommodate commercial haul traffic of the character now proposed by Perrin Oakhampton."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The common grantor conveyed the rear parcel in 1980 without any reservation of a right of way. At that time the rear parcel abutted the abandoned rail grade, which was subsequently vacated by the Windmere County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Stonebrook Land & Timber Co.."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION",
+      "order": 11,
+      "text": "Grantor may relocate the easement at Grantor's sole cost upon 90 days' written notice, provided the relocated way is of equal width and grade, provides equal utility and access, and does not increase the distance of travel by more than 10 percent. Grantee's consent shall not be unreasonably withheld."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 12,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Sable, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Successors, Assigns and Runs With the Land",
+      "order": 13,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    }
+  ]
+}

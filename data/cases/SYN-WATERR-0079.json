@@ -1,0 +1,107 @@
+{
+  "case_id": "SYN-WATERR-0079",
+  "case_name": "Marbury Hollow v. Deepwell Development",
+  "full_caption": "Marbury Hollow Holdings, LLC, Appellant, v. Deepwell Development Partners, L.P., Appellee",
+  "court": "Calloway Land and Property Court, Elmsworth Division",
+  "jurisdiction": "Calloway",
+  "date": "2025-09-09",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2025-4121",
+  "property_address": "4200 Pennyroyal Court, Elmsworth, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Marbury Hollow Holdings, LLC and Deepwell Development Partners, L.P. own riparian tracts along the Sable Fork within Elmsworth County. The dispute concerns Deepwell Development Partners, L.P.'s diversion of approximately 375 gallons per minute for irrigation of 12.5 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 2002 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The injunction is modified to permit diversion not exceeding 150 gallons per minute between January and September, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — DIVERSION LIMITS AND SEASONAL SCHEDULE",
+      "order": 9,
+      "text": "The Upper Owner may divert from the Sable Fork for irrigation not more than 375 gallons per minute, and not more than an aggregate of 530 acre-feet in any calendar year. Between January and September the permitted rate is reduced to 150 gallons per minute. No diversion is permitted whenever the gauged flow at the Elmsworth County station falls below the minimum bypass flow set out in Rider B."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Dispute Resolution",
+      "order": 10,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 3 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Time of the Essence",
+      "order": 11,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Calloway, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Counterparts and Electronic Signature",
+      "order": 12,
+      "text": "This instrument may be executed in counterparts, each of which is an original and all of which together constitute one instrument. A signature delivered electronically has the same effect as an original, provided that any instrument submitted for recording shall bear original signatures and acknowledgment before a notary public of the State of Calloway."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Insurance",
+      "order": 13,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $500,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    }
+  ]
+}

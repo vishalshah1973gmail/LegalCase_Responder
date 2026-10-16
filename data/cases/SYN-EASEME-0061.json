@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-EASEME-0061",
+  "case_name": "Amberline Property v. Kettleburn",
+  "full_caption": "Amberline Property Group, Inc., Appellant, v. Marisol Kettleburn, Appellee",
+  "court": "Supreme Court of Fairhollow",
+  "jurisdiction": "Fairhollow",
+  "date": "2014-09-19",
+  "case_type": "easement",
+  "case_type_label": "Easement",
+  "source": "synthetic",
+  "docket_number": "SYN-2014-3510",
+  "property_address": "3057 Bellweather Street, Harrowgate, FH",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This appeal concerns a claimed easement of access across the northern 40 feet of the parcel at 3057 Bellweather Street, Harrowgate, FH, owned by Marisol Kettleburn, in favor of the landlocked rear parcel owned by Amberline Property Group, Inc.."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Acts of maintenance visible to the servient owner are strong evidence that the use was under a claim of right rather than by neighborly accommodation. The grading and culvert installation here satisfy that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The common grantor conveyed the rear parcel in 2004 without any reservation of a right of way. At that time the rear parcel abutted the Wicklow town road, which was subsequently vacated by the Harrowgate County Board, leaving the parcel without lawful access."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The evidence showed that Amberline Property Group, Inc. and predecessors drove a gravel track across the servient estate from 2004 through 2018, maintained it with periodic grading, and installed a culvert at the drainage swale in 2030."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "An easement appurtenant runs with the land and passes on conveyance of the dominant estate whether or not it is mentioned in the deed. It is extinguished only by release, merger, abandonment, or prescription running against it."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Because the want of access arose from the later vacation of a public road rather than from the severance itself, no easement by necessity was created. The trial court's contrary conclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "An easement by necessity arises where (1) the dominant and servient estates were formerly held in common ownership, (2) that unity was severed, and (3) the necessity for the way existed at the moment of severance. Necessity arising afterward will not support the easement."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment declaring a prescriptive easement is affirmed as to the way as historically used, and modified to exclude the proposed commercial expansion. Costs to Marisol Kettleburn."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — GRANT AND DESCRIPTION OF EASEMENT",
+      "order": 9,
+      "text": "Grantor grants to Grantee, its successors and assigns, a perpetual non-exclusive easement 40 feet in width for ingress, egress and utilities over and across the northerly portion of the Servient Estate, the centerline of which is the existing gravel drive as it presently exists on the ground. This easement is appurtenant to and runs with the Dominant Estate and may not be conveyed separately from it."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — SCOPE LIMITATION AND GATES",
+      "order": 10,
+      "text": "Use of the easement is limited to passenger vehicles, light trucks and agricultural equipment consistent with the historic use of the way. Commercial haul traffic, quarry traffic and use in connection with any subdivision of the Dominant Estate into more than 12 lots are outside the scope of this grant. Grantor may install gates at the points of entry provided that no gate shall be locked against Grantee and any lock installed shall be keyed to Grantee as well."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — RELOCATION",
+      "order": 11,
+      "text": "Grantor may relocate the easement at Grantor's sole cost upon 60 days' written notice, provided the relocated way is of equal width and grade, provides equal utility and access, and does not increase the distance of travel by more than 10 percent. Grantee's consent shall not be unreasonably withheld."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Governing Law",
+      "order": 12,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Fairhollow, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Harrowgate County, Fairhollow, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Indemnity",
+      "order": 13,
+      "text": "Each party shall indemnify, defend and hold harmless the other from all claims, damages and expenses, including reasonable attorney's fees, arising out of that party's use of the subject premises or breach of this instrument, except to the extent caused by the negligence or willful misconduct of the party seeking indemnity. This clause survives termination."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Insurance",
+      "order": 14,
+      "text": "The party in possession shall maintain commercial general liability insurance of not less than $2,000,000 per occurrence, naming the other party as an additional insured, and shall furnish a certificate of insurance on request and on each renewal. Each party waives subrogation against the other to the extent of insurance proceeds actually received."
+    }
+  ]
+}

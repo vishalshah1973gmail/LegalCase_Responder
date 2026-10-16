@@ -1,0 +1,128 @@
+{
+  "case_id": "SYN-LANDLO-0020",
+  "case_name": "Amberline Holdings v. Marchetti-Doyle",
+  "full_caption": "Amberline Holdings, LLC, Appellant, v. Jasper Marchetti-Doyle, Appellee",
+  "court": "Ardenne District Court of Appeal, Third District",
+  "jurisdiction": "Ardenne",
+  "date": "2017-05-31",
+  "case_type": "landlord_tenant",
+  "case_type_label": "Landlord-Tenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2017-7778",
+  "property_address": "4545 Bellweather Street, Harrowgate, AR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Appellant Amberline Holdings, LLC is the record owner of the residential building located at 4545 Bellweather Street, Harrowgate, AR, a 18-unit structure operated as rental housing since 2005. Appellee Jasper Marchetti-Doyle occupied Unit 2B under a written lease dated September 21, 2030."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A tenant electing to withhold rent under the repair-and-deduct statute must (1) give written notice of the defect, (2) allow a reasonable time for cure, and (3) deposit the withheld sums with the clerk of court or into a segregated account. Jasper Marchetti-Doyle satisfied the first two requirements but did not deposit the withheld rent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A late fee is enforceable only where it bears a reasonable relationship to the administrative cost actually incurred by the landlord in processing a delinquent payment. A charge of $125 against a monthly obligation of $1,950 exceeds that relationship and is unenforceable to the extent it exceeds five percent of the installment."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The lease provided for monthly rent of $1,950, due on the first day of each month, with a late charge of $125 assessed on any installment remaining unpaid after the 5th day of the month. The trial court found that this charge operated as a penalty rather than as liquidated damages."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The security deposit of $3,100 was not returned within 45 days of surrender, nor was an itemized statement of deductions furnished. The statutory consequence is forfeiture of the landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Retaliatory eviction is presumed where a landlord commences a summary possession action within 12 months after a tenant has reported a code violation to the municipal housing inspector. The presumption is rebuttable by clear and convincing evidence of an independent, non-retaliatory ground."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Jasper Marchetti-Doyle withheld rent for the months of May and August of 2015, asserting that the premises were untenantable by reason of a persistent failure of the heating system and recurring water intrusion at the north wall of the unit."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Amberline Holdings, LLC served a notice to quit on May 25, 2034. The notice recited the ground of non-payment but omitted the amount claimed to be due. A notice to quit that fails to state the sum demanded does not commence the statutory cure period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The trial court awarded Jasper Marchetti-Doyle attorney's fees of $9,000 under the reciprocal-fee provision. Where a lease grants fees to the landlord, this State reads the provision as mutual, and the prevailing tenant recovers on the same terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The record establishes that Amberline Holdings, LLC received written notice of the heating defect on February 22, 2027 and did not dispatch a repair contractor until March 5, 2028, an interval of 14 days. During that interval overnight interior temperatures fell below fifty-five degrees on at least eleven occasions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "We affirm in part and reverse in part. The judgment of possession is vacated; the money judgment is remanded for recalculation consistent with the late-fee holding set out above."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — SECURITY DEPOSIT",
+      "order": 12,
+      "text": "Landlord holds the sum of $3,100 as security for Tenant's performance. The deposit shall be held in a segregated interest-bearing account at a federally insured institution located within this State. Within 45 days after surrender of the Premises, Landlord shall return the deposit together with accrued interest, less any lawful deductions, accompanied by an itemized written statement identifying each deduction and attaching supporting invoices. Failure to furnish the itemized statement within that period forfeits Landlord's right to retain any portion of the deposit."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER E",
+      "heading": "RIDER E — SUBLETTING AND EARLY TERMINATION",
+      "order": 13,
+      "text": "Tenant may not sublet the Premises or assign this Lease without Landlord's written consent, which shall not be unreasonably withheld or delayed. Tenant may terminate early upon 60 days' written notice and payment of a termination fee equal to two (2) monthly installments, provided that no termination fee shall be charged where the termination follows Landlord's material breach, a lawful lease-break for domestic violence, or military relocation orders."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER F",
+      "heading": "RIDER F — UTILITY ALLOCATION",
+      "order": 14,
+      "text": "Where utilities are master-metered, Landlord shall allocate charges among units by the ratio of occupied square footage and shall furnish, upon written request, a copy of the master bill and the allocation calculation for any billing period within the preceding twelve months. Landlord shall not impose an administrative markup exceeding 3 percent of the actual charge."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Entire Agreement and Riders",
+      "order": 15,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Successors, Assigns and Runs With the Land",
+      "order": 16,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    }
+  ]
+}

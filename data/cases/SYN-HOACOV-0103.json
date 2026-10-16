@@ -1,0 +1,135 @@
+{
+  "case_id": "SYN-HOACOV-0103",
+  "case_name": "Kingsmere Development v. Nettleford",
+  "full_caption": "Kingsmere Development Partners, L.P., Appellant, v. Perrin Nettleford, Appellee",
+  "court": "Thornfield Land and Property Court, Lindenmere Division",
+  "jurisdiction": "Thornfield",
+  "date": "2014-01-13",
+  "case_type": "hoa_covenant",
+  "case_type_label": "HOA / Restrictive Covenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2014-8214",
+  "property_address": "2133 Old Quarry Turnpike, Lindenmere, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Kingsmere Development Partners, L.P., the association governing the Applegate Commons subdivision, brought this action to enjoin Perrin Nettleford from maintaining a detached structure at 2133 Old Quarry Turnpike, Lindenmere, TF in violation of Article V of the recorded declaration."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A discretionary architectural approval power must be exercised reasonably and in good faith. A denial that states no articulable standard is arbitrary and will not support injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Fines totaling $500 were imposed without the hearing required by the bylaws. A fine imposed in disregard of the association's own procedural requirements is void, without regard to the merits of the underlying violation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The defense of changed conditions requires a showing that the character of the neighborhood has so altered that the original purpose of the restriction can no longer be achieved. Isolated violations elsewhere in the subdivision do not meet that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The business judgment rule shields the board's maintenance and budgeting decisions from judicial second-guessing where the board acted within its authority, on an informed basis, and in the honest belief that the action served the association."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The association's architectural review committee denied the application by letter dated February 27, 2037. The declaration requires that denials state the specific ground relied upon; the letter recited only that the proposal was 'not in harmony with the community.'"
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Restrictive covenants are enforceable servitudes running with the land where they are (1) in writing, (2) intended to run, (3) touching and concerning the land, and (4) recorded so as to give notice to successors."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Assessments levied under Article VI became a lien on the lot upon recording of the notice of assessment. The lien is subordinate to a first mortgage recorded earlier in time but superior to subsequent encumbrances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Covenants are construed in favor of the free use of land. Ambiguity in a restriction is resolved against the party seeking to enforce it, and a restriction will not be extended by implication to conduct not fairly within its terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Article V prohibits 'any outbuilding, shed or accessory structure exceeding one hundred twenty square feet.' The structure erected by Perrin Nettleford measures 240 square feet and is therefore within the plain reach of the restriction."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The association waived enforcement as to fence height by failing to act against 16 comparable violations over a period of 21 years. Selective enforcement of a covenant against one owner, after acquiescence in like violations by others, is inequitable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "We reverse the injunction as to the fence and affirm as to the accessory structure. The award of fines is vacated in its entirety."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — LEASING RESTRICTION",
+      "order": 13,
+      "text": "No Lot may be leased for a term of less than 12 months, and no more than 4 percent of the Lots may be leased at any one time. An owner in possession on the date this Rider was recorded is exempt as to that Lot until title is transferred. This Rider does not apply to a lease to a family member of the owner or to occupancy incident to a mortgagee's possession following foreclosure."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Waiver and Course of Dealing",
+      "order": 14,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Recording",
+      "order": 15,
+      "text": "This instrument shall be recorded in the land records of Lindenmere County, Thornfield, and shall run with the land, binding upon and inuring to the benefit of the parties and their respective heirs, successors, personal representatives and assigns. The party causing the instrument to be recorded shall bear the recording fees and shall furnish a conformed copy to the other party within 15 days of recording."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Inspection and Right of Entry",
+      "order": 16,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Governing Law",
+      "order": 17,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Thornfield, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Lindenmere County, Thornfield, and each party consents to the personal jurisdiction of those courts."
+    }
+  ]
+}

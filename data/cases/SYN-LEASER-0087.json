@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-LEASER-0087",
+  "case_name": "Cinderfield Land v. Brackenbury",
+  "full_caption": "Cinderfield Land & Timber Co., Appellant, v. Verity Brackenbury, Appellee",
+  "court": "Court of Appeals of Northridge",
+  "jurisdiction": "Northridge",
+  "date": "2011-06-01",
+  "case_type": "lease_rider",
+  "case_type_label": "Lease Rider / Addendum",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-6618",
+  "property_address": "3054 Bellweather Street, Stillwater, NR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "This action turns on the construction of three riders appended to a commercial lease between Cinderfield Land & Timber Co., as landlord, and Verity Brackenbury, as tenant, for 1,120 square feet at 3054 Bellweather Street, Stillwater, NR."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "A late charge and default interest may be imposed cumulatively only where the lease says so expressly. Absent express language, imposing both amounts to a double recovery for the same delay."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The Continuous Operation Rider requires the tenant to remain open during the hours the shopping center is open. It is enforceable by injunction only where damages are inadequate; a going-dark clause with a stated liquidated remedy displaces injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A landlord may not withhold consent in order to extract a rent increase not bargained for in the lease. The demand for 25 percent of the sublease profits, absent a recapture provision, was unreasonable as a matter of law."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Internet orders fulfilled from the leased premises fall within the definition of gross sales; orders merely placed at a kiosk on the premises and shipped from a remote warehouse do not."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The Late Fee Rider assesses a charge of 10 percent of any installment not received by the 3th day of the month, together with interest at 18 percent per annum on the unpaid balance from the due date."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A rider is read as part of the integrated lease. Where a rider and the printed form conflict, the rider controls, because it represents the parties' specific and later-negotiated intent."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The Estoppel Rider requires the tenant to deliver a certificate within 30 days of request. Failure to deliver operates as an admission of the facts stated in the landlord's proposed form only where the rider so provides."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The Holdover Rider fixes holdover rent at three (3) times the last monthly installment. Such a provision is enforceable as liquidated damages where holdover harm is difficult to estimate and the multiplier is not grossly disproportionate."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The Percentage Rent Rider obligates Verity Brackenbury to pay 6 percent of annual gross sales in excess of a breakpoint of $800,000, with 'gross sales' defined to exclude returns, sales taxes collected, and inter-store transfers."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Judgment for Verity Brackenbury on the late-fee and default-interest claim is affirmed; judgment for Cinderfield Land & Timber Co. on the percentage-rent claim is affirmed as modified."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 2",
+      "heading": "RIDER 2 — PERCENTAGE RENT",
+      "order": 12,
+      "text": "In addition to Base Rent, Tenant shall pay 6 percent of Gross Sales in each Lease Year in excess of a breakpoint of $800,000. 'Gross Sales' means all receipts from business conducted at, from, or fulfilled out of the Premises, whether for cash or credit, and expressly includes internet and telephone orders fulfilled from inventory located at the Premises, and expressly excludes: returns and allowances actually credited; sales, excise and similar taxes collected and remitted; transfers of merchandise to other stores of Tenant not made to avoid percentage rent; and receipts from vending machines maintained for employees. Tenant shall deliver a statement of Gross Sales within 14 days after each Lease Year, and Landlord may audit not more than once per Lease Year."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Successors, Assigns and Runs With the Land",
+      "order": 13,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Entire Agreement and Riders",
+      "order": 14,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    }
+  ]
+}

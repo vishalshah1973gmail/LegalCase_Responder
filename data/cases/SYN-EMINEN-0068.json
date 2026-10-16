@@ -1,0 +1,142 @@
+{
+  "case_id": "SYN-EMINEN-0068",
+  "case_name": "Foxglove Landing v. Lowbridge",
+  "full_caption": "Foxglove Landing Development Partners, L.P., Appellant, v. Bertram Lowbridge, Appellee",
+  "court": "Supreme Court of Thornfield",
+  "jurisdiction": "Thornfield",
+  "date": "2009-12-17",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2009-1103",
+  "property_address": "2762 Mill Race Way, Cobbleton, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Cobbleton County Redevelopment Authority condemned 17.3 acres owned by Bertram Lowbridge at 2762 Mill Race Way, Cobbleton, TF for construction of a county recycling transfer station. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "A taking may be effected without formal proceedings where governmental action substantially deprives the owner of the beneficial use of the land. The 9-month closure of the only access drive states a claim for inverse condemnation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Interest on the award runs from the date of taking to the date of payment at the statutory rate of 3 percent, and is a component of just compensation rather than a matter of legislative grace."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The highest and best use of the property is the use to which it may reasonably be put in the reasonably near future. A use dependent on a rezoning is admissible only on a showing that the rezoning was reasonably probable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Public use is satisfied where the taking serves a legitimate public purpose; the transfer of the condemned land to a private developer under an enforceable redevelopment agreement does not defeat that purpose under this State's constitution."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Business losses are not compensable as such. Loss of goodwill is recoverable only where a statute so provides; this State's statute permits recovery of relocation expenses of $25,000 but not lost profits."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The 'scope of the project' rule excludes from the valuation any increase or decrease in value attributable to the project itself, including value changes flowing from the announcement of the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Evidence of the price paid by the condemnor for neighboring parcels is generally inadmissible, because such sales are made under the shadow of the condemnation power and are not free-market transactions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "The trial court excluded testimony valuing the parcel as multifamily residential land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "12",
+      "heading": "Paragraph 12",
+      "order": 12,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — DESCRIPTION OF THE TAKING",
+      "order": 13,
+      "text": "The Condemnor takes in fee simple 17.3 acres out of the Owner's parcel of 3.1 acres, together with a temporary construction easement of 50 feet in width along the taking line for a term of 9 months, for the purpose of constructing the county recycling transfer station. The date of taking is the date of the deposit of estimated compensation with the clerk."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 5",
+      "heading": "RIDER 5 — INTEREST, POSSESSION AND ABANDONMENT",
+      "order": 14,
+      "text": "Interest at 3 percent per annum accrues on the difference between the deposit and the final award from the date of taking to the date of payment, as a constitutional component of just compensation. The Condemnor may take possession upon deposit. If the Condemnor abandons the taking before final judgment, it shall pay the Owner's reasonable costs, appraisal fees and attorney's fees actually incurred."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Notice",
+      "order": 15,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Severability",
+      "order": 16,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Inspection and Right of Entry",
+      "order": 17,
+      "text": "Upon not less than twenty-four (24) hours' prior notice, and at reasonable times, a party may enter upon the subject premises to inspect, to make permitted repairs, or to show the premises to a prospective purchaser or lender. Entry without notice is permitted only in an emergency threatening life or substantial property damage, and the entering party shall give notice of the entry as soon as practicable thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Interpretation and Construction Against Drafter",
+      "order": 18,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    }
+  ]
+}

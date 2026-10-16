@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-HOACOV-0023",
+  "case_name": "Quillon v. Foxglove Landing",
+  "full_caption": "Perrin Quillon, Appellant, v. Foxglove Landing Land & Timber Co., Appellee",
+  "court": "Calloway Superior Court, Stillwater County",
+  "jurisdiction": "Calloway",
+  "date": "2024-10-27",
+  "case_type": "hoa_covenant",
+  "case_type_label": "HOA / Restrictive Covenant",
+  "source": "synthetic",
+  "docket_number": "SYN-2024-6418",
+  "property_address": "4542 Pennyroyal Court, Stillwater, CW",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Perrin Quillon, the association governing the Blackthorn Ridge subdivision, brought this action to enjoin Foxglove Landing Land & Timber Co. from maintaining a detached structure at 4542 Pennyroyal Court, Stillwater, CW in violation of Article III of the recorded declaration."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The business judgment rule shields the board's maintenance and budgeting decisions from judicial second-guessing where the board acted within its authority, on an informed basis, and in the honest belief that the action served the association."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The association waived enforcement as to fence height by failing to act against 21 comparable violations over a period of 21 years. Selective enforcement of a covenant against one owner, after acquiescence in like violations by others, is inequitable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Restrictive covenants are enforceable servitudes running with the land where they are (1) in writing, (2) intended to run, (3) touching and concerning the land, and (4) recorded so as to give notice to successors."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Assessments levied under Article XII became a lien on the lot upon recording of the notice of assessment. The lien is subordinate to a first mortgage recorded earlier in time but superior to subsequent encumbrances."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Covenants are construed in favor of the free use of land. Ambiguity in a restriction is resolved against the party seeking to enforce it, and a restriction will not be extended by implication to conduct not fairly within its terms."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "The defense of changed conditions requires a showing that the character of the neighborhood has so altered that the original purpose of the restriction can no longer be achieved. Isolated violations elsewhere in the subdivision do not meet that standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "A discretionary architectural approval power must be exercised reasonably and in good faith. A denial that states no articulable standard is arbitrary and will not support injunctive relief."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The association's architectural review committee denied the application by letter dated April 21, 2036. The declaration requires that denials state the specific ground relied upon; the letter recited only that the proposal was 'not in harmony with the community.'"
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "We reverse the injunction as to the fence and affirm as to the accessory structure. The award of fines is vacated in its entirety."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 1",
+      "heading": "RIDER 1 — ARCHITECTURAL REVIEW PROCEDURE",
+      "order": 11,
+      "text": "No structure, addition, fence, or exterior alteration shall be commenced until plans have been submitted to and approved in writing by the Architectural Review Committee. The Committee shall act within 90 days of a complete submission; failure to act within that period constitutes approval. Any denial shall be in writing and shall identify the specific provision of the Declaration or published guideline on which it rests. Approval may not be withheld on grounds of personal taste alone."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — ENFORCEMENT, FINES AND HEARING RIGHTS",
+      "order": 12,
+      "text": "Before imposing any fine, the Board shall give the owner written notice of the alleged violation and an opportunity to be heard before the Board or a committee of at least three members who are not officers. Fines shall not exceed $100 per violation nor $1,000 in the aggregate for a continuing violation. A fine imposed without the notice and hearing required by this Rider is void."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Time of the Essence",
+      "order": 13,
+      "text": "Time is of the essence as to every obligation stated in this instrument. Where the final day for performance falls on a Saturday, Sunday, or legal holiday in the State of Calloway, the period is extended to the next business day."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Attorney's Fees",
+      "order": 14,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Notice",
+      "order": 15,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Local development: everything in requirements.txt plus the PyTorch embedder.
+-r requirements.txt
+
+sentence-transformers>=3.0.0

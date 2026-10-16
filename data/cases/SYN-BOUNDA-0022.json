@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-BOUNDA-0022",
+  "case_name": "Blackthorn Ridge v. Stonebrook Realty",
+  "full_caption": "Blackthorn Ridge Capital Servicing, LLC, Appellant, v. Stonebrook Realty Trust, Appellee",
+  "court": "Kestrel Superior Court, Rooksbury County",
+  "jurisdiction": "Kestrel",
+  "date": "2012-06-23",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2012-9509",
+  "property_address": "286 Old Quarry Turnpike, Rooksbury, KS",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Ferndale Road. The dispute concerns a strip approximately 16 feet in width lying between the fence line maintained since 1977 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "The fence erected in 1977 was maintained jointly, and both households mowed to their respective sides without objection until Blackthorn Ridge Capital Servicing, LLC obtained the 1985 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 11°35' E to N 70°59' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "A retracement that ignores an original monument capable of being located is entitled to little weight. We accept the trial court's finding crediting the monument-based survey."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 20 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Stonebrook Realty Trust had constructive notice of the disputed occupation. Possession that is open and visible puts a purchaser on inquiry as to the rights of the possessor, and a purchaser who fails to inquire is charged with what inquiry would have disclosed."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment quieting title in Blackthorn Ridge Capital Servicing, LLC to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER III",
+      "heading": "RIDER III — TITLE WARRANTIES AND EXCEPTIONS",
+      "order": 9,
+      "text": "The conveyance is made subject to: (a) all easements, restrictions and reservations of record; (b) the rights of parties in possession as disclosed by an accurate survey; (c) real property taxes for the current year, prorated as of closing; and (d) the encroachment of the board fence across the common line as shown on the survey. Grantor's warranty of title excepts each of the foregoing."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER IV",
+      "heading": "RIDER IV — ENCROACHMENT LICENSE",
+      "order": 10,
+      "text": "The parties acknowledge that the board fence encroaches approximately 1.5 feet onto the adjoining parcel. The adjoining owner grants a revocable license permitting the encroachment to remain until the structure is removed, destroyed, or substantially rebuilt, at which time the license terminates automatically and the structure shall be reconstructed wholly within the boundary."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Waiver and Course of Dealing",
+      "order": 11,
+      "text": "No waiver of any breach shall be effective unless in writing and signed by the party charged. The acceptance of a payment with knowledge of a breach, the failure to insist on strict performance, or any course of dealing between the parties shall not constitute a waiver of that or any subsequent breach, nor estop the party from enforcing the provision thereafter."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Entire Agreement and Riders",
+      "order": 12,
+      "text": "This instrument, together with the exhibits and riders attached and incorporated by reference, constitutes the entire agreement of the parties and supersedes all prior negotiations, representations and agreements, whether oral or written. In the event of a conflict between a printed provision and a rider, the rider shall control, the rider being the specifically negotiated expression of the parties' intent."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Successors, Assigns and Runs With the Land",
+      "order": 13,
+      "text": "The benefits and burdens created by this instrument touch and concern the subject land, are intended by the parties to run with the land in perpetuity, and bind every successor in title with notice, actual, constructive or inquiry. A conveyance of the benefited parcel carries the benefit whether or not this instrument is mentioned in the deed of conveyance."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "4",
+      "heading": "Clause 4 — Attorney's Fees",
+      "order": 14,
+      "text": "In any action to enforce or construe this instrument, the prevailing party shall recover its reasonable attorney's fees, expert fees and costs, at trial and on appeal. Where the instrument grants fees to one party only, this clause shall be read as reciprocal and shall entitle the other party to fees on the same terms if that party prevails."
+    }
+  ]
+}

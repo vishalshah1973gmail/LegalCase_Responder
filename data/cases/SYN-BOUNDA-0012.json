@@ -1,0 +1,114 @@
+{
+  "case_id": "SYN-BOUNDA-0012",
+  "case_name": "Verdant Acre v. Alderidge",
+  "full_caption": "Verdant Acre Development Partners, L.P., Appellant, v. Isolde Alderidge, Appellee",
+  "court": "Court of Appeals of Ardenne",
+  "jurisdiction": "Ardenne",
+  "date": "2015-02-09",
+  "case_type": "boundary_title",
+  "case_type_label": "Boundary / Title",
+  "source": "synthetic",
+  "docket_number": "SYN-2015-7567",
+  "property_address": "3740 Ferndale Road, Harrowgate, AR",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The parties own adjoining parcels on Wicklow Lane. The dispute concerns a strip approximately 30 feet in width lying between the fence line maintained since 1993 and the line described in the parties' respective deeds."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Acquiescence requires (1) occupation up to a visible line, (2) mutual recognition of that line as the boundary, and (3) continuance for 10 years. Silence coupled with occupation may supply the element of mutual recognition."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The fence erected in 1993 was maintained jointly, and both households mowed to their respective sides without objection until Verdant Acre Development Partners, L.P. obtained the 2003 survey. That course of conduct satisfies the acquiescence standard."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The surveyor called by Verdant Acre Development Partners, L.P. located the original iron pin at the southeast corner and retraced the line from that monument. The surveyor called by Isolde Alderidge began from a subdivision plat computation without locating any original monument."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "The trial court's reformation of the deed to correct a scrivener's transposition of the bearing from N 19°18' E to N 30°23' E is supported by clear and convincing evidence of mutual mistake."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "Where a deed description conflicts with monuments actually set on the ground, the monuments control. Calls in a conveyance are given priority in the order: natural monuments, artificial monuments, courses, distances, and quantity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "A quiet-title plaintiff must recover on the strength of its own title and not on the weakness of the defendant's. Verdant Acre Development Partners, L.P. traced an unbroken chain to the 2010 patent and thereby carried that burden as to the residue of the parcel."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The doctrine of acquiescence establishes a boundary where adjoining owners have recognized and treated a visible line as the boundary for the statutory period, regardless of what the deeds provide."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "The recording act of this State is a race-notice statute. A subsequent purchaser for value prevails over a prior unrecorded interest only if the purchaser took without notice and recorded first."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The judgment quieting title in Verdant Acre Development Partners, L.P. to the disputed strip is affirmed. The counterclaim for trespass damages is remanded for a determination of the value of the removed timber."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER I",
+      "heading": "RIDER I — BOUNDARY LINE AGREEMENT",
+      "order": 11,
+      "text": "The parties, being uncertain as to the true location of their common boundary, agree that the line established by the existing fence, as located and monumented by the survey of record dated April 13, 2019, is and shall be the boundary between their respective parcels for all purposes. Each party quitclaims to the other all right, title and interest lying on the other's side of the agreed line. This agreement shall be recorded and shall bind the parties' successors."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER III",
+      "heading": "RIDER III — TITLE WARRANTIES AND EXCEPTIONS",
+      "order": 12,
+      "text": "The conveyance is made subject to: (a) all easements, restrictions and reservations of record; (b) the rights of parties in possession as disclosed by an accurate survey; (c) real property taxes for the current year, prorated as of closing; and (d) the encroachment of the detached garage across the common line as shown on the survey. Grantor's warranty of title excepts each of the foregoing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Dispute Resolution",
+      "order": 13,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 15 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 14,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    }
+  ]
+}

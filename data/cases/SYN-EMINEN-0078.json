@@ -1,0 +1,93 @@
+{
+  "case_id": "SYN-EMINEN-0078",
+  "case_name": "Ingleside v. Dunmoor",
+  "full_caption": "Katarin Ingleside, Appellant, v. Ottoline Dunmoor, Appellee",
+  "court": "Westmarch Superior Court, Lindenmere County",
+  "jurisdiction": "Westmarch",
+  "date": "2011-01-16",
+  "case_type": "eminent_domain",
+  "case_type_label": "Eminent Domain",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-3153",
+  "property_address": "1766 Wicklow Lane, Lindenmere, WM",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "The Lindenmere County Redevelopment Authority condemned 17.3 acres owned by Ottoline Dunmoor at 1766 Wicklow Lane, Lindenmere, WM for construction of a microbrewery taproom. The sole issue on appeal is the measure of just compensation."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Where only part of a parcel is taken, the owner recovers the value of the part taken plus severance damages to the remainder, less any special benefit conferred on the remainder by the project."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "The highest and best use of the property is the use to which it may reasonably be put in the reasonably near future. A use dependent on a rezoning is admissible only on a showing that the rezoning was reasonably probable."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Evidence of the price paid by the condemnor for neighboring parcels is generally inadmissible, because such sales are made under the shadow of the condemnation power and are not free-market transactions."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Just compensation is the fair market value of the property taken at the date of taking, measured by the price a willing buyer would pay a willing seller, neither being under compulsion."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The trial court excluded testimony valuing the parcel as highway-commercial land. Given the pending comprehensive-plan amendment and three comparable rezonings in the corridor, the probability showing was made and the exclusion was error."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Interest on the award runs from the date of taking to the date of payment at the statutory rate of 8 percent, and is a component of just compensation rather than a matter of legislative grace."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "The judgment is reversed and the cause remanded for a new trial on valuation with the excluded testimony admitted."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 3",
+      "heading": "RIDER 3 — EXCLUDED EVIDENCE",
+      "order": 9,
+      "text": "The following are not admissible on the issue of value: the price paid by the Condemnor for other parcels acquired for this project; any increase or decrease in value attributable to the project itself or to its announcement; offers to purchase not accepted; and the assessed valuation for property tax purposes."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Governing Law",
+      "order": 10,
+      "text": "This instrument shall be governed by and construed in accordance with the laws of the State of Westmarch, without regard to its conflict-of-laws principles. Any action arising out of or relating to this instrument shall be brought exclusively in the courts sitting in Lindenmere County, Westmarch, and each party consents to the personal jurisdiction of those courts."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Dispute Resolution",
+      "order": 11,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 5 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

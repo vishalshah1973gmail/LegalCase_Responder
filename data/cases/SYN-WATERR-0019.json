@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-WATERR-0019",
+  "case_name": "Umberton v. Copperfield Row",
+  "full_caption": "Desmond Umberton, Appellant, v. Copperfield Row Holdings, LLC, Appellee",
+  "court": "Marrowdale Land and Property Court, Stillwater Division",
+  "jurisdiction": "Marrowdale",
+  "date": "2011-03-20",
+  "case_type": "water_rights",
+  "case_type_label": "Water & Mineral Rights",
+  "source": "synthetic",
+  "docket_number": "SYN-2011-4779",
+  "property_address": "2805 Wicklow Lane, Stillwater, MD",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Desmond Umberton and Copperfield Row Holdings, LLC own riparian tracts along the Brightwater Branch within Stillwater County. The dispute concerns Copperfield Row Holdings, LLC's diversion of approximately 150 gallons per minute for irrigation of 2.7 acres."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Groundwater in this State is governed by the rule of reasonable use, under which an overlying owner may withdraw for beneficial use on the overlying land but may not export off-tract to the injury of neighboring wells."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Reasonableness is a question of fact informed by the purpose of the use, its economic and social value, the extent of the harm, the practicality of avoiding the harm, and the protection of existing investments."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "The accommodation doctrine required Copperfield Row Holdings, LLC to consider directional drilling from an off-site pad before siting the wellpad within the irrigated circle. Failure even to evaluate the alternative defeats the claim of reasonable necessity."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Accretion belongs to the riparian owner; avulsion does not change the boundary. The 1988 channel shift, being sudden and perceptible, was avulsive and left the boundary at the former thread of the stream."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The public trust doctrine reserves to the State title to the beds of navigable waters. Navigability for title purposes is determined by susceptibility to commercial navigation at the date of statehood."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Under the riparian doctrine as modified in this State, each riparian owner is entitled to a reasonable use of the watercourse, measured against the correlative rights of other riparians."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Severed mineral rights carry an implied easement to use so much of the surface as is reasonably necessary to extract the minerals, but that right is qualified by an obligation to accommodate existing surface uses where reasonable alternatives exist."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "A prescriptive water right may be acquired by open, adverse diversion for the statutory period, but only as against a use that was actually interfered with during that period."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "The injunction is modified to permit diversion not exceeding 150 gallons per minute between January and July, and is otherwise affirmed."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER A",
+      "heading": "RIDER A — DIVERSION LIMITS AND SEASONAL SCHEDULE",
+      "order": 11,
+      "text": "The Upper Owner may divert from the Brightwater Branch for irrigation not more than 150 gallons per minute, and not more than an aggregate of 680 acre-feet in any calendar year. Between January and July the permitted rate is reduced to 150 gallons per minute. No diversion is permitted whenever the gauged flow at the Stillwater County station falls below the minimum bypass flow set out in Rider B."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER C",
+      "heading": "RIDER C — GROUNDWATER AND WELL INTERFERENCE",
+      "order": 12,
+      "text": "No high-capacity well shall be completed within 20 feet of an existing domestic well without a drawdown analysis furnished to the affected owner. If operation of a high-capacity well causes an existing domestic well to fail or its yield to fall below five gallons per minute, the operator shall, at its expense, deepen or replace the affected well or provide an equivalent permanent supply. Withdrawal for export off the overlying tract is prohibited where it injures a neighboring overlying user."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER D",
+      "heading": "RIDER D — SEVERED MINERAL ESTATE AND SURFACE ACCOMMODATION",
+      "order": 13,
+      "text": "The owner of the severed mineral estate may use so much of the surface as is reasonably necessary for exploration and production, and shall accommodate existing surface uses where a reasonable alternative means of extraction exists. Before siting any wellpad within an irrigated area, the operator shall evaluate in writing off-site and directional alternatives and shall furnish that evaluation to the surface owner not less than 45 days before entry."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Severability",
+      "order": 14,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Dispute Resolution",
+      "order": 15,
+      "text": "Before filing suit, a party shall give written notice of the dispute and the parties shall confer in good faith for not fewer than 7 days, and shall thereafter submit the dispute to non-binding mediation before a mediator experienced in real property matters. This clause does not bar an action for injunctive relief to prevent irreparable harm or an action to preserve the status quo."
+    }
+  ]
+}

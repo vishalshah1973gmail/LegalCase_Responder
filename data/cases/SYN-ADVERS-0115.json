@@ -1,0 +1,121 @@
+{
+  "case_id": "SYN-ADVERS-0115",
+  "case_name": "Thackeray-Bell v. Marbury Hollow",
+  "full_caption": "Wendell Thackeray-Bell, Appellant, v. Marbury Hollow Holdings, LLC, Appellee",
+  "court": "Court of Appeals of Thornfield",
+  "jurisdiction": "Thornfield",
+  "date": "2018-07-07",
+  "case_type": "adverse_possession",
+  "case_type_label": "Adverse Possession",
+  "source": "synthetic",
+  "docket_number": "SYN-2018-9160",
+  "property_address": "3432 Ferndale Road, Ashbourne, TF",
+  "fictional_notice": "FICTIONAL DOCUMENT. Generated for the LegalCase Responder demo corpus. The parties, court, docket number and holdings below are invented and do not correspond to any real case, court, or person.",
+  "sections": [
+    {
+      "section_type": "paragraph",
+      "section_number": "1",
+      "heading": "Paragraph 1",
+      "order": 1,
+      "text": "Wendell Thackeray-Bell claims title by adverse possession to a 24.0-acre wooded tract adjoining 3432 Ferndale Road, Ashbourne, TF, of which Marbury Hollow Holdings, LLC is the record owner."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "2",
+      "heading": "Paragraph 2",
+      "order": 2,
+      "text": "Adverse possession requires possession that is actual, open and notorious, exclusive, hostile, and continuous for the statutory period of 20 years. Each element must be established by clear and convincing evidence."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "3",
+      "heading": "Paragraph 3",
+      "order": 3,
+      "text": "Hostility does not require ill will. It requires only that the possession be without the record owner's permission and inconsistent with the owner's title. A claimant's mistaken belief as to the true line does not defeat hostility in this State."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "4",
+      "heading": "Paragraph 4",
+      "order": 4,
+      "text": "Tacking is permitted between successive possessors in privity. Wendell Thackeray-Bell may tack the 5 years of possession by its predecessor, whose deed purported to convey the disputed tract, to satisfy the statutory term."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "5",
+      "heading": "Paragraph 5",
+      "order": 5,
+      "text": "Color of title is not required where the claim rests on actual occupancy, but it enlarges the claim to the full extent of the described premises rather than the portion actually occupied."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "6",
+      "heading": "Paragraph 6",
+      "order": 6,
+      "text": "The trial court found the elements satisfied as to 11.4 acres and not satisfied as to the remainder, which lay beyond any fence or posted line. That allocation is not clearly erroneous."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "7",
+      "heading": "Paragraph 7",
+      "order": 7,
+      "text": "Continuity is broken by an entry of the record owner made with intent to reclaim possession. The single survey visit by Marbury Hollow Holdings, LLC's agent in 2041, unaccompanied by any assertion of possession, did not interrupt the running of the statute."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "8",
+      "heading": "Paragraph 8",
+      "order": 8,
+      "text": "Possession is 'actual' where the claimant uses the land as an ordinary owner of similar land would use it. For wooded acreage, selective timbering, posting, and seasonal recreational use may suffice where cultivation would not be expected."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "9",
+      "heading": "Paragraph 9",
+      "order": 9,
+      "text": "Payment of property taxes is not an independent element in this jurisdiction but is evidence bearing on the notoriety of the claim. Wendell Thackeray-Bell paid taxes assessed against the tract for 11 of the 20 years in question."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "10",
+      "heading": "Paragraph 10",
+      "order": 10,
+      "text": "Land held by a municipality for a public purpose is not subject to adverse possession. The 30-foot strip within the platted right of way is therefore excluded from any judgment in Wendell Thackeray-Bell's favor."
+    },
+    {
+      "section_type": "paragraph",
+      "section_number": "11",
+      "heading": "Paragraph 11",
+      "order": 11,
+      "text": "Affirmed in part, reversed in part, and remanded for entry of a decree describing the vested tract by metes and bounds consistent with the surveyor's Exhibit D-1."
+    },
+    {
+      "section_type": "rider",
+      "section_number": "RIDER 4",
+      "heading": "RIDER 4 — EXCLUSIONS FROM CLAIM",
+      "order": 12,
+      "text": "This claim expressly excludes: (a) any land held by the municipality or the State for a public purpose, including the 30-foot platted right of way; (b) any land subject to a recorded easement, as to which Claimant asserts no interest inconsistent with the easement; and (c) any subsurface mineral estate previously severed of record."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "1",
+      "heading": "Clause 1 — Notice",
+      "order": 13,
+      "text": "Every notice required or permitted shall be in writing and shall be deemed given: on personal delivery; on the third business day after deposit in the United States mail, certified, return receipt requested, postage prepaid; or on the next business day after deposit with a nationally recognized overnight courier. Notices to a party shall be sent to the address last furnished by that party in writing. Electronic mail alone does not constitute notice unless the recipient acknowledges receipt in writing."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "2",
+      "heading": "Clause 2 — Interpretation and Construction Against Drafter",
+      "order": 14,
+      "text": "Headings are for convenience only and do not affect construction. The singular includes the plural. This instrument is the product of negotiation between the parties, and no rule of construction requiring interpretation against the drafting party shall apply. Restrictions on the use of land shall nonetheless be construed in favor of the free use of the land."
+    },
+    {
+      "section_type": "clause",
+      "section_number": "3",
+      "heading": "Clause 3 — Severability",
+      "order": 15,
+      "text": "If any provision of this instrument is held invalid, illegal, or unenforceable, that provision shall be reformed to the minimum extent necessary to render it enforceable, and if it cannot be so reformed it shall be severed, and the remaining provisions shall continue in full force and effect."
+    }
+  ]
+}
